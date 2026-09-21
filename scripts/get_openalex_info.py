@@ -5,7 +5,7 @@ import glob
 # https://github.com/J535D165/pyalex
 # from utils import Article
 
-query_open_alex = True
+query_open_alex = False
 
 # read openalex api key
 api_key = None

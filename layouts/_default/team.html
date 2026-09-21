@@ -1,0 +1,81 @@
+{{ define "main" }}
+
+<script src="{{ (resources.Get "js/isotope.pkgd.js").RelPermalink }}"></script>
+
+<header>
+  <h2>{{ .Title }}</h2>
+  <p>{{ .Description }}</p>
+  {{ if .Site.Params.show_post_dates | default true }}
+  {{- with .Date }}<time>{{ . | time.Format ":date_medium" }}</time>{{ end }}
+  {{ end }}
+  {{ partial "tags.html" . }}
+</header>
+
+{{- $people := where .Site.Pages "Type" "people" -}}
+{{ $nleaders := 0 }}
+{{ $width_img := 12 }}
+{{ if .Params.leader }}
+{{ $width_img = 6 }}
+{{ $nleaders = .Params.leader | len }}
+{{ if eq 1 $nleaders }}
+{{ $width_img = 9 }}
+{{ end }}
+{{ end }}
+
+<section>
+    <div class="container">
+      <div class="row">
+        {{ $leader_id := index .Params.leader 0 }}
+        {{- range $person := $people -}}
+        {{ $person_id := strings.TrimSuffix ".en" ($person | path.BaseName) }}
+
+        {{- if eq $leader_id $person_id }}
+        <section class="col-3 col-12-narrower">
+          <div class="leader-item">
+            <a href="{{ add "people/" $person_id | relLangURL }}">
+              <img src="{{ $person.Params.image | relURL }}" alt="{{ $person.Params.image_alt }}" />          
+              <h3>{{ $person.Params.title }}</h3>
+            </a>
+          </div>
+        </section>
+        {{- end -}}
+        {{- end -}}
+          
+
+          {{- if .Params.image }}
+          <section class="col-{{ $width_img }} col-12-narrower">
+            <div class="box highlight">
+              <span class="image featured"><img src="{{ .Params.image | relURL }}" alt="{{ .Params.image_alt }}" /></span>
+            </div>
+          </section>
+          {{ end }}
+
+      <!-- second leader if any -->
+      {{ if eq 2 $nleaders }}
+      {{ $leader_id := index .Params.leader 1 }}
+      {{- range $person := $people -}}
+      {{ $person_id := strings.TrimSuffix ".en" ($person | path.BaseName) }}
+
+      {{- if eq $leader_id $person_id }}
+      <section class="col-3 col-12-narrower">
+        <div class="leader-item">
+          <a href="{{ add "people/" $person_id | relLangURL }}">
+            <img src="{{ $person.Params.image | relURL }}" alt="{{ $person.Params.image_alt }}" />          
+            <h3>{{ $person.Params.title }}</h3>
+          </a>
+        </div>
+      </section>
+      {{- end -}}
+      {{- end -}}
+      {{- end -}}
+      </div>
+
+      
+    </div>
+</section>
+
+{{- .Content }}
+
+<!-- {{ partial "people-list.html" . }} -->
+
+{{ end }}

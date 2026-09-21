@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html lang="{{ .Language }}">
+    <head>
+        {{- partial "head/head.html" . -}}
+        {{- template "_internal/opengraph.html" . -}}
+    </head>
+    <body class="is-preload">
+        {{- partial "analytics/google-tag-manager/body.html" . }}
+        <div id="page-wrapper">
+            {{- partial "header.html" . }}
+
+            <section class="wrapper style1">
+              <div class="container">
+                <div class="row gtr-200">
+                  <section class="col-12 col-12-narrower">
+                    <div class="box highlight">
+                      <h2>{{ .Title }}</h2>
+                      {{ .Content }}
+                    </div>
+                  </section>
+                </div>
+              </div>
+            </section>
+            
+            <!-- Lookup homepage data in language data directory (e.g. data/en/homepage.yml).
+                 Defaults to data/homepage.yml if language specific data was not found. -->
+            {{ with index ( index hugo.Data .Site.Language.Lang | default hugo.Data ) (.Param "services_data" | default "services") }}
+                {{- if .banner.enable }}
+                    {{- partial "homepage/banner.html" .banner -}}
+                {{- end }}
+
+
+                {{- range .items }}
+                    {{- partial (printf "homepage/blocks/%s.html" .type) (dict "ctx" $ "item" .) }}
+                {{- end }}
+            {{ end }}
+
+            {{- partial "footer/footer.html" . -}}
+        </div>
+        {{- partial "scripts.html" . -}}
+    </body>
+</html>

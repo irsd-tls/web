@@ -1,0 +1,41 @@
+<script src="{{ (resources.Get "js/isotope.pkgd.js").RelPermalink }}"></script>
+
+{{ $eqname := .Page.Params.team }}
+
+{{ $subeq := .Get 0 }}
+
+{{- $people := where .Site.Pages "Type" "people" -}}
+
+<div class="people-grid" data-isotope='{ "itemSelector": ".people-item", "layoutMode": "fitRows" }'>
+
+  {{- range $person := $people -}}
+  
+  {{- if eq $eqname $person.Params.team }}
+
+  {{- if eq $subeq $person.Params.subteam }}
+  
+  <div class="people-item">
+    <a href="{{ $person.RelPermalink }}">
+      {{- if .Params.image }}
+      <img src="{{ .Params.image | relURL }}" alt="{{ .Params.image_alt }}" />
+      {{ else }}
+      <img src="/images/people/generic.png" alt="{{ .Params.image_alt }}" />
+      {{ end }}
+      <p>
+        <strong>
+          {{ $person.Title }}
+        </strong>
+      </br>
+      {{ $person.Params.position }}
+      </p>
+    </a>
+    <!-- Add more fields as needed -->
+  </div>
+  
+  {{- end -}}
+
+  {{- end -}}
+  
+  {{- end -}}
+
+</div>

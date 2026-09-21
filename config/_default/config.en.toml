@@ -1,0 +1,18 @@
+[params]
+
+    [[params.sponsor]]
+        title = "Université de Toulouse"
+        image = "images/UniversiteToulouse.webp"
+        url = "https://www.univ-tlse3.fr/home"
+    [[params.sponsor]]
+        title = "INSERM"
+        image = "images/inserm.webp"
+        url = "https://www.inserm.fr/en/home"
+    [[params.sponsor]]
+        title = "INRAe"
+        image = "images/inrae.webp"
+        url = "https://www.inrae.fr/en"
+    [[params.sponsor]]
+        title = "ENVT"
+        image = "images/envt.webp"
+        url = "https://envt.fr/lenvt/"

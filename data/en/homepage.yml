@@ -1,0 +1,42 @@
+banner:
+  enable: true
+  image: "images/banner.jpg"
+  contents: "Welcome to the Research Institute for Digestive Health (IRSD)"
+  button:
+    contents: "Learn More"
+    url: "about"
+items:
+  - type: highlights
+    items_per_row: 3
+    items:
+    - title: Understand the mechanisms of digestive diseases
+      icon: fa-cogs
+      content: >
+        Chronic inflammatory bowel diseases, digestive cancers, metabolic diseases, etc.
+    - title: Develop therapeutic innovations
+      icon: fa-microscope
+      content: >
+        Cutting-edge approaches in molecular biology, immunology, and microbiome research.
+    - title: Improving patient care
+      icon: fa-stethoscope
+      content: >
+        Close collaborations with hospitals and industrial partners
+  - type: heading
+    heading: Fundamental, translational, and clinical research in digestive health
+    contents: >
+      Our multidisciplinary teams, comprising researchers, clinicians, biologists, and engineers, rely on high-level technological platforms and national and international partnerships to accelerate discoveries and their clinical applications.
+  # - type: card
+  #   heading: But what are digestive diseases?
+  #   contents: >
+  #     **Digestive diseases** are disorders that affect the digestive tract and related organs, including the esophagus, stomach, intestines, liver, pancreas, and gallbladder. They encompass a wide range of conditions, such as **inflammatory bowel diseases** (e.g., Crohn’s disease, ulcerative colitis), **functional disorders** (e.g., irritable bowel syndrome), **infections**, **metabolic diseases** (e.g., fatty liver disease), and **cancers** (e.g., colorectal or liver cancer). 
+  #   image: images/metaimage.jpg
+  #   image_alt: "simplified cartoon of digestive diseases"
+  - type: openagenda
+    heading: Events
+    openagenda_id: 26728860
+    content: >-
+      Our events are listed on OpenAgenda: [IRSD OpenAgenda page](https://openagenda.com/en/irsd?cl=null&passed=1).
+  # - type: posts
+  #   heading: Recent news
+  #   content_type: posts
+  #   max: 4

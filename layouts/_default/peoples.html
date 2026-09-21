@@ -1,0 +1,137 @@
+{{ define "main" }}
+
+<script src="{{ (resources.Get "js/isotope.pkgd.js").RelPermalink }}"></script>
+<!-- <script src="{{ (resources.Get "js/infinite-scroll.pkgd.min.js").RelPermalink }}"></script> -->
+
+
+<header>
+  <h2>{{ .Title }}</h2>
+  <p>{{ .Description }}</p>
+</header>
+
+{{- .Content }}
+
+<!-- --- -->
+<!-- using isotope -->
+<!-- --- -->
+
+<div class='row'>
+  <div class='col-6'>
+    <p>
+      <input type="text" class="quicksearch" placeholder="{{ T "search_default" }}" />
+    </p>
+  </div>
+</div>
+
+<div class="grid">
+  {{- $people_pages := where .Site.Pages.ByTitle "Type" "people" -}}
+  {{ range $people_pages }}
+
+  <!-- don't include alumni -->
+  {{ if .Params.team }}
+  
+  <div class="people-item">
+    <a href="{{ .RelPermalink }}">
+      {{- if .Params.image }}
+      <img src="{{ .Params.image | relURL }}" alt="{{ .Params.image_alt }}" />
+      {{ else }}
+      <img src="/images/people/generic.png" alt="{{ .Params.image_alt }}" />
+      {{ end }}
+      <p>
+        <strong>
+          {{ .Title }}
+        </strong>
+      </br>
+      {{ .Params.position }}
+      </p>
+    </a>
+    <!-- Add more fields as needed -->
+  </div>
+  {{ end }}
+
+  {{ end }}
+</div>
+
+<div id="pagination"></div>
+
+<script src="{{ (resources.Get "js/custom-people.js").RelPermalink }}"></script>
+
+<!-- <script> -->
+<!--   // init Isotope -->
+<!--   var iso = new Isotope( '.grid', { -->
+<!--     itemSelector: '.element-item' -->
+<!--   }); -->
+
+<!--   // bind filter button click -->
+<!--   var filtersElem = document.querySelector('.filters-button-group'); -->
+<!--   filtersElem.addEventListener( 'click', function( event ) { -->
+<!--     // only work with buttons -->
+<!--     if ( !matchesSelector( event.target, 'button' ) ) { -->
+<!--       return; -->
+<!--     } -->
+<!--     var filterValue = event.target.getAttribute('data-filter'); -->
+<!--   iso.arrange({ filter: filterValue }); -->
+<!--   }); -->
+  
+<!--   // change is-checked class on buttons -->
+<!--   var buttonGroups = document.querySelectorAll('.button-group'); -->
+<!--   for ( var i=0, len = buttonGroups.length; i < len; i++ ) { -->
+<!--  var buttonGroup = buttonGroups[i]; -->
+<!--  radioButtonGroup( buttonGroup ); -->
+<!--  } -->
+
+<!--  function radioButtonGroup( buttonGroup ) { -->
+<!--  buttonGroup.addEventListener( 'click', function( event ) { -->
+<!--  // only work with buttons -->
+<!--  if ( !matchesSelector( event.target, 'button' ) ) { -->
+<!--  return; -->
+<!--  } -->
+<!--  buttonGroup.querySelector('.is-checked').classList.remove('is-checked'); -->
+<!--  event.target.classList.add('is-checked'); -->
+<!--  }); -->
+<!--  } -->
+
+<!-- </script> -->
+
+
+
+<!-- --- -->
+<!-- using list.js -->
+<!-- --- -->
+
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>   -->
+<!-- <script src="//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script> -->
+
+<!-- <div id="pub-list"> -->
+<!--   <input type="text" class="fuzzy-search" /> -->
+<!--   <ul class="list"> -->
+<!--     {{ range hugo.Data.pubs }} -->
+<!--     <li><p><em class="title">{{ .title }}.</em> <strong>{{ .journal }}</strong></p></li> -->
+<!--     {{ end }} -->
+<!--   </ul> -->
+  
+<!--   <ul class="pagination"></ul> -->
+<!-- </div> -->
+
+<!-- <script> -->
+<!--   var monkeyList = new List('pub-list', { -->
+<!--     valueNames: ['title'], -->
+<!--     page: 2, -->
+<!--     pagination: true -->
+<!--   }); -->
+<!-- </script> -->
+  
+<!-- {{ range hugo.Data.pubs }} -->
+
+<!-- <div class="article"> -->
+<!--   <em>{{ .title }}</em>. <strong>{{ .journal }}</strong> -->
+<!-- </div> -->
+<!-- {{ end }} -->
+
+<!-- paginate? -->
+<!-- https://codepen.io/TimRizzo/details/ervrRq -->
+
+
+{{ end }}
+
+

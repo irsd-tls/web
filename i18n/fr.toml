@@ -1,0 +1,17 @@
+[contact_name]
+other = "Nom"
+
+[contact_email]
+other = "Email"
+
+[contact_message]
+other = "Message"
+
+[contact_submit]
+other = "Envoyer un message"
+
+[language_select]
+other = "Sélectionner la langue"
+
+[search_default]
+other = "Recherche"

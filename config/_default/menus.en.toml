@@ -1,0 +1,83 @@
+[[main]]
+    name = "About"
+    weight = 10
+    pageRef = '/about'
+[[main]]
+    parent = "About"
+    name = "About IRSD"
+    weight = 11
+    pageRef = '/about'
+[[main]]
+    parent = "About"
+    name = "Services"
+    weight = 12
+    pageRef = '/services'
+# [[main]]
+#     name = "News"
+#     weight = 20
+#     pageRef = '/posts'
+[[main]]
+    name = "Teams"
+    weight = 30
+    pageRef = '/equipes'
+[[main]]
+    parent = "Teams"
+    name = "Vergnolle/Deraison - Gut Protease Signals"
+    weight = 31
+    pageRef = '/eq1'
+[[main]]
+    parent = "Teams"
+    name = "Oswald - Pathogenesis and commensalism of enterobacteria"
+    weight = 32
+    pageRef = "/eq2"
+[[main]]
+    parent = "Teams"
+    name = "Djebali/Monlong - Bioinformatics Research In Disease Genomics (BRIDGe)"
+    weight = 34
+    pageRef = "/eq4"
+[[main]]
+    parent = "Teams"
+    name = "Kautz - Erythroferrone and Iron Homeostasis"
+    weight = 35
+    pageRef = "/eq5"
+[[main]]
+    parent = "Teams"
+    name = "Barreau - Environment and intestinal epithelium"
+    weight = 36
+    pageRef = "/eq6"
+[[main]]
+    parent = "Teams"
+    name = "Vaubourgeix - Systems Biology of Bacterial Antibiotic Resistance Mechanisms"
+    weight = 37
+    pageRef = '/eqjv'
+[[main]]
+    name = "Platforms"
+    weight = 40
+    pageRef = "/platforms"
+[[main]]
+    parent = "Platforms"
+    name = "Digestive Models Platform"
+    weight = 41
+    pageRef = '/platform-digestive'
+[[main]]
+    parent = "Platforms"
+    name = "Organoid platform"
+    weight = 42
+    pageRef = '/platform-organoid'
+[[main]]
+    parent = "Platforms"
+    name = "Protein Bio-Engineering Platform"
+    weight = 43
+    pageRef = '/platform-bip'
+[[main]]
+    name = "People"
+    weight = 50
+    pageRef = '/people'
+[[main]]
+    name = "Publications"
+    weight = 60
+    pageRef = '/publications'
+[[main]]
+    name = "Contact"
+    weight = 70
+    pageRef = '/contact'

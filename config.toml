@@ -1,0 +1,13 @@
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      strikethrough = false
+      [markup.goldmark.extensions.extras]
+        [markup.goldmark.extensions.extras.subscript]
+          enable = true
+[module]
+    [module.hugoVersion]
+        min = "0.165.0"
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

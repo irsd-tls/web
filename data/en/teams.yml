@@ -1,0 +1,23 @@
+banner:
+  enable: true
+  image: "images/banner.jpg"
+  contents: "Research Teams"
+items:
+  - type: biglinks
+    items_per_row: 3
+    items:
+    - title: Team 1 - Gut Protease Signals
+      image: images/eq1/gut_barrier_organoid.svg
+      url: eq1
+    - title: Team 2 - Pathogenesis and commensalism of enterobacteria
+      image: images/eq2/ecoli.svg
+      url: eq2
+    - title: Team 4 - Bioinformatics Research In Disease Genomics (BRIDGe)
+      image: images/eq4/dna_black.svg
+      url: eq4
+    - title: Team 5 - Erythroferrone and Iron Homeostasis
+      image: images/eq5/liver.svg
+      url: eq5
+    - title: Team 6 - Environment and intestinal epithelium
+      image: images/eq6/gut_barrier.svg
+      url: eq6

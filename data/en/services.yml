@@ -1,0 +1,73 @@
+items:
+  - type: people-card
+    heading: General Secretary
+    image: images/people/generic.png
+    name: Laurence Doumenc
+    email: laurence.doumenc@inserm.fr
+    phone: 00 33 (0)5 62 74 45 03
+    roles:
+      - Coordination of shared services
+      - Transmission and processing of IRSD information
+      - Monitoring of service activities
+      - Communication with oversight bodies
+  - type: people-card
+    heading: Unit Manager / Financial Officer
+    image: images/people/generic.png
+    name: Lydia Guennec
+    email: lydia.guennec@inserm.fr
+    phone: 00 33 (0)5 62 74 45 69
+    roles:
+      - Budget monitoring
+      - Order placement and tracking
+      - Monitoring of internal and external services
+      - Invoicing
+      - Responsible for procurement and contracts
+  - type: people-card
+    heading: Executive Assistant / Unit Manager
+    image: images/people/generic.png
+    name: Augustin Porquet
+    email: augustin.porquet@inserm.fr
+    roles:
+      - Management and administrative activities
+  - type: people-card
+    heading: IT Specialist / User Support
+    image: images/people/generic.png
+    name: Sylvester Cecil
+    email: informatique.irsd@inserm.fr
+    content: Available on-site at IRSD during even-numbered weeks.
+    roles:
+      - Networking of computers
+      - Management of IT equipment
+      - Software procurement
+      - Installation and configuration of email management software
+      - Point of contact for purchasing new machines
+  - type: people-card
+    heading: Internal Store
+    image: images/people/generic.png
+    email: magasin.infinity-irsd@inserm.fr
+    roles:
+      - Ensuring the smooth operation of the service
+      - Reception and inspection of incoming products
+      - Preparation and distribution of internal store orders and external orders
+      - Distribution of over 730 references
+      - Implementation of tenders for referenced products
+  - type: people-card
+    heading: Laundry/cleaning Service
+    image: images/people/generic.png
+    email: laverie.infinity-irsd@inserm.fr
+    content: "The laundry/cleaning service, staffed by one person and shared between Infinity and IRSD, is primarily responsible for:"
+    roles:
+      - Collecting, sterilizing, and redistributing research team materials,
+      - Sterilizing media and water bottles,
+      - Collecting and autoclaving L2 waste for disposal,
+      - Receiving, collecting, and distributing lab coats for L1 laboratories.
+  - type: people-card
+    heading: Hygiene and Safety
+    image: images/people/generic.png
+    name: Claude Watrin
+    email: claude.watrin@inserm.fr
+    content: "The Hygiene and Safety Department consists of Proximity Prevention Assistants (APP) and a Prevention Officer (CP), Claude Watrin. This shared position between CPTP and IRSD is responsible for:"
+    roles:
+      - Training new employees,
+      - Promoting prevention within the center,
+      - Conducting regulatory inspections.

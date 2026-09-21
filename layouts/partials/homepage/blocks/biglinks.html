@@ -1,0 +1,23 @@
+<section class="wrapper style1">
+  <div class="container">
+    <div class="row gtr-200">
+      {{- $item_cols := (div 12 (.item.items_per_row | default 3)) }}
+      {{- range .item.items }}
+      <section class="col-{{ $item_cols }} col-12-narrower">
+        <div class="box highlight biglink">
+          {{ if .url }}
+          <a href="{{ .url | relLangURL }}">
+            {{ end }}
+            <img src="{{ .image | relURL }}" alt="{{ .image_alt }}" />          
+            <h3>{{ .title }}</h3>
+            <p>{{ .content | markdownify }}</p>
+
+            {{ if .url }}
+          </a>
+          {{ end }}
+        </div>
+      </section>
+      {{- end }}
+    </div>
+  </div>
+</section>

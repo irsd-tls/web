@@ -1,0 +1,61 @@
+baseURL = "https://jmonlong.github.io/irsd-dev/"
+# languageCode = "en-us"
+title = "IRSD"
+theme = "hugo-arcana"
+copyright = "© IRSD. All rights reserved"
+
+defaultContentLanguage = "fr"
+[languages]
+    [languages.fr]
+        label = "Français"
+        weight = 1
+    [languages.en]
+        label = "English"
+        weight = 2
+
+[taxonomies]
+    tag = "tags"
+
+[params]
+    description = "Institut de Recherche en Santé Digestive"
+    images = ['images/metaimage.jpg']
+    show_post_dates = true
+    pubs_json = 'data/pubs.json'
+
+    # [[params.social]]
+    #     title = "Twitter"
+    #     icon = "fa-twitter"
+    #     url = "#"
+    # [[params.social]]
+    #     title = "Facebook"
+    #     icon = "fa-facebook-f"
+    #     url = "#"
+    # [[params.social]]
+    #     title = "GitHub"
+    #     icon = "fa-github"
+    #     url = "#"
+    # [[params.social]]
+    #     title = "LinkedIn"
+    #     icon = "fa-linkedin-in"
+    #     url = "#"
+    # [[params.social]]
+    #     title = "Creative Commons"
+    #     icon = "fa-creative-commons"
+    #     url = "https://creativecommons.org/"
+
+    [[params.sponsor]]
+        title = "Université de Toulouse"
+        image = "images/UniversiteToulouse.webp"
+        url = "https://www.univ-tlse3.fr/"
+    [[params.sponsor]]
+        title = "INSERM"
+        image = "images/inserm.webp"
+        url = "https://www.inserm.fr"
+    [[params.sponsor]]
+        title = "INRAe"
+        image = "images/inrae.webp"
+        url = "https://www.inrae.fr"
+    [[params.sponsor]]
+        title = "ENVT"
+        image = "images/envt.webp"
+        url = "https://envt.fr/lenvt/"

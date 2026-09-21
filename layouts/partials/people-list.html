@@ -1,0 +1,15 @@
+{{- $people := where .Site.Pages "Type" "people" -}}
+{{- range $person := $people -}}
+
+Page: {{ .Params.team }}
+
+Person: {{ $person.Params.team }}
+
+{{- if eq .Page.Params.team $person.Params.team }}
+<div class="person">
+  <h2>{{ $person.Title }}</h2>
+  <p>Team: {{ $person.Params.team }}</p>
+  <!-- Add more fields as needed -->
+</div>
+{{- end -}}
+{{- end -}}

@@ -1,0 +1,183 @@
+{{ define "main" }}
+
+<script src="{{ (resources.Get "js/isotope.pkgd.js").RelPermalink }}"></script>
+<!-- <script src="{{ (resources.Get "js/infinite-scroll.pkgd.min.js").RelPermalink }}"></script> -->
+
+
+<header>
+  <h2>{{ .Title }}</h2>
+  <p>{{ .Description }}</p>
+</header>
+
+{{- .Content }}
+
+<!-- --- -->
+<!-- using isotope -->
+<!-- --- -->
+
+<div class='row'>
+  <div class='col-6'>
+    <p>
+      <input type="text" class="quicksearch" placeholder="{{ T "search_default" }}" />
+    </p>
+  </div>
+  <!-- <div class='col-3'> -->
+  <!--   <p>Article type:  -->
+  <!--     <select class="filters-select"> -->
+  <!--       <option value="*">All</option> -->
+  <!--       <option value="article">Article</option> -->
+  <!--       <option value="review">Review</option> -->
+  <!--     </select> -->
+  <!--   </p> -->
+  <!-- </div> -->
+</div>
+
+<div class="grid">
+  {{ range hugo.Data.pubs }}
+  <div class="element-item {{ .type }} " data-filter="{{ .type }}">
+    <p>
+      <!-- <i class="fas fa-book-open"></i> -->
+      <!-- <i class="far fa-bookmark"></i> -->
+      <!-- <i class="fas fa-align-justify"></i> -->
+      <i class="far fa-file-alt"></i> 
+      <em class="title">{{ .title | markdownify }}.</em>
+      <!-- to keep track of authors we skip/hide -->
+      {{ $skipped_auths := 0 }}
+      {{ $auth_cpt := 1 }}
+
+      <!-- loop over all authors -->
+      {{ range .authors }}
+
+      <!-- show the first authors, always -->
+      {{ if lt $auth_cpt 3 }}
+      <!-- check if it's an IRSD author (should have a id info) -->
+      {{ if .id }}
+      {{ $person_url := add "people/" .id }}
+      <a href="{{ $person_url | relLangURL }}">{{ .name }}</a>,
+      {{ else }}
+      {{ .name }},
+      {{ end }}
+      {{ else }}
+
+      <!-- check if it's an IRSD author (should have a id info) -->
+      {{ if .id }}
+
+      <!-- before writing a new author, have we skipped some  -->
+      {{ if $skipped_auths }}
+      ..., 
+      {{ end }}
+      
+      <!-- write the IRSD author -->
+      {{ $person_url := add "people/" .id }}
+      <a href="{{ $person_url | relLangURL }}">{{ .name }}</a>,
+
+      <!-- reinit the flag for skipped authors -->
+      {{ $skipped_auths = 0 }}
+      
+      {{ else }}
+      <!-- we are skipping this author -->
+      {{ $skipped_auths = 1 }}
+      {{ end }}
+
+      {{ end }}
+
+      <!-- before going to the next author, increment the author counter -->
+      {{ $auth_cpt = add $auth_cpt 1 }}
+      {{ end }}
+
+      <!-- we're done, have we finished by skipping authors? -->
+      {{ if $skipped_auths }}
+      et al.,
+      {{ end }}
+
+      <strong class="journal">{{ .journal }}</strong>
+      <strong class="year">{{ .year }}</strong>.
+      DOI: <a href="https://doi.org/{{ .doi }}" target="blank" >{{ .doi }}</a>
+    </p>
+  </div>
+  {{ end }}
+</div>
+
+<div id="pagination"></div>
+
+<script src="{{ (resources.Get "js/custom-pubs.js").RelPermalink }}"></script>
+
+<!-- <script> -->
+<!--   // init Isotope -->
+<!--   var iso = new Isotope( '.grid', { -->
+<!--     itemSelector: '.element-item' -->
+<!--   }); -->
+
+<!--   // bind filter button click -->
+<!--   var filtersElem = document.querySelector('.filters-button-group'); -->
+<!--   filtersElem.addEventListener( 'click', function( event ) { -->
+<!--     // only work with buttons -->
+<!--     if ( !matchesSelector( event.target, 'button' ) ) { -->
+<!--       return; -->
+<!--     } -->
+<!--     var filterValue = event.target.getAttribute('data-filter'); -->
+<!--   iso.arrange({ filter: filterValue }); -->
+<!--   }); -->
+  
+<!--   // change is-checked class on buttons -->
+<!--   var buttonGroups = document.querySelectorAll('.button-group'); -->
+<!--   for ( var i=0, len = buttonGroups.length; i < len; i++ ) { -->
+<!--  var buttonGroup = buttonGroups[i]; -->
+<!--  radioButtonGroup( buttonGroup ); -->
+<!--  } -->
+
+<!--  function radioButtonGroup( buttonGroup ) { -->
+<!--  buttonGroup.addEventListener( 'click', function( event ) { -->
+<!--  // only work with buttons -->
+<!--  if ( !matchesSelector( event.target, 'button' ) ) { -->
+<!--  return; -->
+<!--  } -->
+<!--  buttonGroup.querySelector('.is-checked').classList.remove('is-checked'); -->
+<!--  event.target.classList.add('is-checked'); -->
+<!--  }); -->
+<!--  } -->
+
+<!-- </script> -->
+
+
+
+<!-- --- -->
+<!-- using list.js -->
+<!-- --- -->
+
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>   -->
+<!-- <script src="//cdnjs.cloudflare.com/ajax/libs/list.js/1.5.0/list.min.js"></script> -->
+
+<!-- <div id="pub-list"> -->
+<!--   <input type="text" class="fuzzy-search" /> -->
+<!--   <ul class="list"> -->
+<!--     {{ range hugo.Data.pubs }} -->
+<!--     <li><p><em class="title">{{ .title }}.</em> <strong>{{ .journal }}</strong></p></li> -->
+<!--     {{ end }} -->
+<!--   </ul> -->
+  
+<!--   <ul class="pagination"></ul> -->
+<!-- </div> -->
+
+<!-- <script> -->
+<!--   var monkeyList = new List('pub-list', { -->
+<!--     valueNames: ['title'], -->
+<!--     page: 2, -->
+<!--     pagination: true -->
+<!--   }); -->
+<!-- </script> -->
+  
+<!-- {{ range hugo.Data.pubs }} -->
+
+<!-- <div class="article"> -->
+<!--   <em>{{ .title }}</em>. <strong>{{ .journal }}</strong> -->
+<!-- </div> -->
+<!-- {{ end }} -->
+
+<!-- paginate? -->
+<!-- https://codepen.io/TimRizzo/details/ervrRq -->
+
+
+{{ end }}
+
+

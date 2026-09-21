@@ -1,0 +1,23 @@
+banner:
+  enable: true
+  image: "images/banner.jpg"
+  contents: "Platforms"
+items:
+  - type: biglinks
+    items_per_row: 3
+    items:
+    - title: Digestive Models Platform
+      image: images/platform-digestive/mouse-gut.svg
+      url: platform-digestive
+      content: >-
+        The **DIGESTIVE MODELS** platform is dedicated to fundamental and translational research, as well as training in experimental abdominal surgery.
+    - title: Organoids Platform
+      image: images/eq1/gut_barrier.svg
+      url: platform-organoid
+      content: >-
+        The **ORGANOIDS** platform develops cultures of "mini-guts" (mini-intestines) that recreate *in vitro*, but in three dimensions, an organ with all the diversity and characteristics of intestinal epithelial cells. These models are powerful tools for studying intestinal physiology and for researching therapeutic tests.
+    - title: Protein Bio-Engineering Platform
+      image: images/eq4/dna_black.svg
+      url: platform-bip
+      content: >-
+        The **PROTEIN BIO-ENGINEERING (BIP)** platform offers a comprehensive range of services for the production, purification, and bioconjugation of recombinant proteins, with particular expertise in the field of nanobodies.

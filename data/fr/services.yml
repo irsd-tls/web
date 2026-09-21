@@ -1,0 +1,73 @@
+items:
+  - type: people-card
+    heading: Secrétaire Générale
+    image: images/people/generic.png
+    name: Laurence Doumenc
+    email: laurence.doumenc@inserm.fr
+    phone: 00 33 (0)5 62 74 45 03
+    roles:
+      - Coordination des services communs 
+      - Transmission et traitement des informations IRSD
+      - Suivi des activités des services 
+      - Communication avec les tutelles
+  - type: people-card
+    heading: Gestionnaire d'unité et suivi financier 
+    image: images/people/generic.png
+    name: Lydia Guennec
+    email: lydia.guennec@inserm.fr
+    phone: 00 33 (0)5 62 74 45 69
+    roles:
+      - Suivi des budgets
+      - Engagement et suivi des commandes
+      - Suivi des prestations internes et externes
+      - Facturation
+      - Responsable achats/marchés
+  - type: people-card
+    heading: Assistant de direction / gestionnaire d'unité 
+    image: images/people/generic.png
+    name: Augustin Porquet
+    email: augustin.porquet@inserm.fr
+    roles:
+      - Activités de gestion et d'administration
+  - type: people-card
+    heading: Informaticien de site / Aide aux utilisateurs​
+    image: images/people/generic.png
+    name: Sylvester Cecil
+    email: informatique.irsd@inserm.fr
+    content: Présence sur le site IRSD les semaines paires.
+    roles:
+      - Mise  en réseau des ordinateurs 
+      - Gestion du parc informatique
+      - Commande de logiciels
+      - Installation et paramétrage du logiciel de gestion des "mails "
+      - Interlocuteur pour l'achat de toute nouvelle machine
+  - type: people-card
+    heading: Magasin interne
+    image: images/people/generic.png
+    email: magasin.infinity-irsd@inserm.fr
+    roles:
+      - Organisation du bon fonctionnement du service 
+      - Réception et contrôle des produits entrant dans le magasin 
+      - Préparation  et distribution des commandes magasin et des commandes extérieures
+      - Distribution de plus de 730 références
+      - Réalisation des mises en œuvre des appels d’offre des produits référencés. 
+  - type: people-card
+    heading: Laverie
+    image: images/people/generic.png
+    email: laverie.infinity-irsd@inserm.fr
+    content: Le service Laverie, composé d’une personne, est mutualisé CPTP-IRSD, est principalement en charge
+    roles:
+      - de la collecte, de la stérilisation et de la redistribution des matériels des équipes de chercheurs,
+      - de la stérilisation des milieux et des bouteilles d'eau,
+      - de la collecte et de l'élimination des déchets de L2 par autoclavage,
+      - de la réception, collecte et distribution des blouses des équipes pour les laboratoires L1.
+  - type: people-card
+    heading: Hygiène et Sécurité
+    image: images/people/generic.png
+    name: Claude Watrin
+    email: claude.watrin@inserm.fr
+    content: "Le Pôle Hygiène et Sécurité, est composé d’Assistants de prévention de Proximité (APP) et d’un chargé de prévention (CP) Claude Vatrin. Le poste de CP mutualisé entre le CPTP et l’IRSD a pour fonction :"
+    roles:
+      - Formation des nouveaux entrants
+      - Animation de la prévention du centre
+      - Contrôles réglementaires​

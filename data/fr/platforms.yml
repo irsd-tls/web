@@ -1,0 +1,23 @@
+banner:
+  enable: true
+  image: "images/banner.jpg"
+  contents: "Plateformes"
+items:
+  - type: biglinks
+    items_per_row: 3
+    items:
+    - title: Plateforme Modèles Digestifs
+      image: images/platform-digestive/mouse-gut.svg
+      url: platform-digestive
+      content: >-
+        La plateforme **MODÈLES DIGESTIFS** est dédiée à la recherche (fondamentale et translationnelle) ainsi qu'à la formation sur la chirurgie expérimentale abdominale. 
+    - title: Plateforme Organoïdes
+      image: images/platform-organoid/gut_barrier_organoid.svg
+      url: platform-organoid
+      content: >-
+        La plateforme **ORGANOÏDES** développe des cultures de "mini-intestins" ("miniguts" en anglais) qui permettent de recréer in vitro, mais en 3 dimensions, un organe possédant toute la diversité et les caractérisques des cellules épithéliales intestinales. Ces modèles sont des outils puissants pour l'étude de la physiologie intestinale et pour la recherche de tests thérapeutiques.
+    - title: Plateforme Bio-Ingenierie des Proteines
+      image: images/eq4/dna_black.svg
+      url: platform-bip
+      content: >-
+        La plateforme de **BIO-INGENIERIE DES PROTEINES (BIP)** propose une offre complète de services pour la production, la purification et la bio-conjugaison de protéines recombinantes, avec une expertise particulière dans le domaine des nano-anticorps.

@@ -1,0 +1,15 @@
+<section class="wrapper style1">
+    <div class="container">
+      <h2>{{ .item.heading }}</h2>
+      
+      {{ .item.content | markdownify }}
+      
+      <div class="card-container">
+        <blockquote class="oa-agenda" align="center" data-base-url="oa" data-display-total="0" data-page-size="6">
+          <p lang="en">See events of <a href="https://openagenda.com/agendas/{{ .item.openagenda_id }}?cl=null&passed=1"><b>IRSD</b></a></p>
+        </blockquote>
+        <script src="{{ (resources.Get "js/openagenda-widgets.js").RelPermalink }}"></script>
+        <!-- <script async src="https://cdn.openagenda.com/js/widgets.js" charset="utf-8"></script> -->
+      </div>
+    </div>
+</section>

@@ -1,0 +1,113 @@
+{{ define "main" }}
+<header>
+  <h2>{{ .Title }}</h2>
+
+  <p>{{ .Description }}</p>
+  {{ if .Site.Params.show_post_dates | default true }}
+  {{- with .Date }}<time>{{ . | time.Format ":date_medium" }}</time>{{ end }}
+  {{ end }}
+  {{ partial "tags.html" . }}
+</header>
+
+<div class="row">
+
+  <div class="col-3">
+    {{- if .Params.image }}
+    <img class="peopleimg" src="{{ .Params.image | relURL }}" alt="{{ .Params.image_alt }}" />
+    {{ else }}
+    <img class="peopleimg" src="/images/people/generic.png" alt="{{ .Params.image_alt }}" />
+    {{ end }}
+  </div>
+  <div class="col-9">
+    {{- if .Params.position }}
+    <i class="fas fa-user"></i>
+    {{ .Params.position}}
+    {{ end }}
+
+    </br>
+
+    {{- if .Params.team }}
+
+    {{ $eqname := .Params.team }}
+
+    {{- $eqs := .Site.Pages -}}
+    <!-- {{- $eqs := where .Site.RegularPages "Params.layout" "team" -}} -->
+
+    {{- range $eq := $eqs -}}
+    
+    {{- if eq $eqname $eq.Params.team }}
+
+    <i class="fas fa-user-friends"></i>
+    <a href="{{ $eqname | relLangURL }}">
+      {{ $eq.Params.title}}
+    </a>
+    
+    {{ end }}
+    {{ end }}
+
+    {{ end }}
+
+    </br>
+
+    {{- if .Params.alumni }}
+
+    {{ $eqname := .Params.alumni }}
+
+    {{- $eqs := .Site.Pages -}}
+    <!-- {{- $eqs := where .Site.RegularPages "Params.layout" "team" -}} -->
+
+    {{- range $eq := $eqs -}}
+    
+    {{- if eq $eqname $eq.Params.team }}
+
+    <i class="fas fa-user-friends"></i>
+    Alumni: 
+    <a href="{{ $eqname | relLangURL }}">
+      {{ $eq.Params.title}}
+    </a>
+    
+    </br>
+
+    {{ end }}
+    {{ end }}
+
+    {{ end }}
+
+
+    {{- if .Params.email }}
+    <i class="icon fas fa-envelope"></i>
+    <a href="mailto:{{ .Params.email}}">
+      {{ .Params.email}}
+    </a>
+    {{ end }}
+    
+    </br>
+    
+    {{- if .Params.website }}
+    <i class="fas fa-globe"></i>
+    <a href="{{ .Params.website}}">
+      {{ .Params.website}}
+    </a>
+    {{ end }}
+    
+    </br>
+    
+    {{- if .Params.phone }}
+    <i class="fas fa-phone"></i>
+    {{ .Params.phone}}
+    {{ end }}
+
+    </br>
+    
+    {{- if .Params.room }}
+    <i class="fas fa-building"></i>
+    {{ .Params.room}}
+    {{ end }}
+
+  </div>
+</div>
+
+</br>
+
+{{- .Content }}
+{{ end }}

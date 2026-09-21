@@ -1,0 +1,55 @@
+<section class="wrapper style1 people" id="{{ .item.heading | urlize }}">
+  <div class="card-container">
+    <div class="card-content">
+      <header>
+        <h2>{{ .item.heading }}</h2>
+
+        {{ .item.content }}
+        
+        <ul>
+          {{- range .item.roles }}
+          <li>
+            {{ . | markdownify }}
+          </li>
+          {{- end }}
+        </ul>
+      </header>
+    </div>
+    <div class="card-content">
+      <header>
+        {{- if .item.email }}
+        <h2>{{ .item.name}}</h2>
+        {{ end }}
+
+        {{- if .item.email }}
+        <i class="icon fas fa-envelope"></i>
+        <a href="mailto:{{ .item.email}}">
+          {{ .item.email}}
+        </a>
+        {{ end }}
+    </br>
+
+    {{- if .item.phone }}
+    <i class="fas fa-phone"></i>
+    {{ .item.phone}}
+    {{ end }}
+    </br>
+    
+    {{- if .Params.room }}
+    <i class="fas fa-building"></i>
+    {{ .Params.room}}
+    {{ end }}
+    
+      </header>
+    </div>
+    <div class="card-image">
+
+    {{- if .item.image }}
+    <img class="peopleimg" src="{{ .item.image | relURL }}" alt="{{ .item.image_alt }}" />
+    {{ else }}
+    <img class="peopleimg" src="/images/people/generic.png" alt="{{ .item.image_alt }}" />
+    {{ end }}
+
+    </div>
+  </div>
+</section>

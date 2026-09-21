@@ -1,0 +1,5880 @@
+[
+  {
+    "doi": "10.1038/s43856-026-01643-1",
+    "title": "The role of dietary patterns on epigenetic and inflammatory aging based on the INSPIRE-T study",
+    "year": 2026,
+    "type": "article",
+    "journal": "Communications Medicine",
+    "authors": [
+      {
+        "name": "Natasha Grande de Fran\u00e7a"
+      },
+      {
+        "name": "Yves Rolland"
+      },
+      {
+        "name": "Sophie Guyonnet"
+      },
+      {
+        "name": "Paul Bensadoun"
+      },
+      {
+        "name": "Jean-Marc Lema\u0131\u0302tre"
+      },
+      {
+        "name": "Bruno Vellas"
+      },
+      {
+        "name": "Philipe de Souto Barreto"
+      },
+      {
+        "name": "for the IHU HealthAge INSPIRE/Open Science group"
+      },
+      {
+        "name": "INSPIRE-T human cohort group: Coordinators"
+      },
+      {
+        "name": "Project managers"
+      },
+      {
+        "name": "Laur\u00e9ane Brigitte"
+      },
+      {
+        "name": "Agathe Milhet"
+      },
+      {
+        "name": "Elodie Paez"
+      },
+      {
+        "name": "Emeline M\u00fcller"
+      },
+      {
+        "name": "Sabine Le Floch"
+      },
+      {
+        "name": "Investigators"
+      },
+      {
+        "name": "Catherine Takeda"
+      },
+      {
+        "name": "Catherine Faisant"
+      },
+      {
+        "name": "Fran\u00e7oise Lala"
+      },
+      {
+        "name": "Gabor Abellan van Kan"
+      },
+      {
+        "name": "Zara Steinmeyer"
+      },
+      {
+        "name": "Antoine Piau"
+      },
+      {
+        "name": "Tony Macaron"
+      },
+      {
+        "name": "Davide Angioni"
+      },
+      {
+        "name": "Pierre-Jean Ousset"
+      },
+      {
+        "name": "Nurses"
+      },
+      {
+        "name": "M\u00e9lanie Comt\u00e9"
+      },
+      {
+        "name": "Nathalie Daniaud"
+      },
+      {
+        "name": "Fanny Boissou-Parachaud"
+      },
+      {
+        "name": "statistical analysis and data management subgroup Methodology"
+      },
+      {
+        "name": "Sandrine Andrieu"
+      },
+      {
+        "name": "Christelle Cantet"
+      },
+      {
+        "name": "Body composition, VO2 max, isocinetism subgroup"
+      },
+      {
+        "name": "Fabien Pillard"
+      },
+      {
+        "name": "Technician DXA"
+      },
+      {
+        "name": "Bernard Teysseyre"
+      },
+      {
+        "name": "MRI subgroup"
+      },
+      {
+        "name": "Marie Faruch"
+      },
+      {
+        "name": "Pierre Payoux"
+      },
+      {
+        "name": "ICOPE subgroup"
+      },
+      {
+        "name": "N\u00e9da Tavassoli"
+      },
+      {
+        "name": "Biological sample collection subgroup"
+      },
+      {
+        "name": "Marie Dorard"
+      },
+      {
+        "name": "B\u00e9n\u00e9dicte Razat"
+      },
+      {
+        "name": "Camille Champigny"
+      },
+      {
+        "name": "Inspire animal cohort groups"
+      },
+      {
+        "name": "C\u00e9dric Dray"
+      },
+      {
+        "name": "Jean-Philippe Pradere"
+      },
+      {
+        "name": "Angelo Parini"
+      },
+      {
+        "name": "Yohan Santin"
+      },
+      {
+        "name": "Dominique Langin"
+      },
+      {
+        "name": "P Gourdy"
+      },
+      {
+        "name": "Laurent O. Martinez"
+      },
+      {
+        "name": "Anne Bouloumi\u00e9"
+      },
+      {
+        "name": "Nicolas Fazilleau"
+      },
+      {
+        "name": "Roland Liblau"
+      },
+      {
+        "name": "Jean-Charles Gu\u00e9ry"
+      },
+      {
+        "name": "Michel Simon"
+      },
+      {
+        "name": "Nicolas Gaudenzio"
+      },
+      {
+        "name": "Luciana Bostan"
+      },
+      {
+        "name": "Hicham El Costa"
+      },
+      {
+        "name": "Nabila Jabrane Ferrat"
+      },
+      {
+        "name": "Philippe Valet"
+      },
+      {
+        "name": "C\u00e9dric Dray"
+      },
+      {
+        "name": "Isabelle Ader"
+      },
+      {
+        "name": "Val\u00e9rie Planat"
+      },
+      {
+        "name": "Louis Casteilla"
+      },
+      {
+        "name": "Pierre Payoux"
+      },
+      {
+        "name": "Patrice P\u00e9ran"
+      },
+      {
+        "name": "C Delpierre"
+      },
+      {
+        "name": "Claire Rampon"
+      },
+      {
+        "name": "No\u00e9lie Davezac"
+      },
+      {
+        "name": "Bruno Guiard"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Jean\u2010Paul Motta",
+        "id": "jean-paul.motta",
+        "team": "eq1"
+      },
+      {
+        "name": "Sara Djebali"
+      },
+      {
+        "name": "Pauline Floch"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Chrystelle Bonnart",
+        "id": "chrystelle.bonnard",
+        "team": "eq1"
+      },
+      {
+        "name": "Jean-Emmanuel Sarry"
+      },
+      {
+        "name": "IHU HealthAge Open Science group"
+      },
+      {
+        "name": "Nicola Coley"
+      },
+      {
+        "name": "Jessica Pontary"
+      }
+    ],
+    "sel_team": [
+      "eq1"
+    ]
+  },
+  {
+    "doi": "10.1128/msystems.01796-25",
+    "title": "Mtb-Timer: a fluorescent reporter to visualize *Mycobacterium tuberculosis* replication and antibiotic responses",
+    "year": 2026,
+    "type": "article",
+    "journal": "mSystems",
+    "authors": [
+      {
+        "name": "V\u00edctor Campo-P\u00e9rez"
+      },
+      {
+        "name": "Chak Hon Luk"
+      },
+      {
+        "name": "Laure Botella"
+      },
+      {
+        "name": "Julien Vaubourgeix"
+      },
+      {
+        "name": "Maximiliano G. Gutierrez"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
+    "doi": "10.1080/19490976.2026.2687903",
+    "title": "High thrombin activity associated with crohn\u2019s disease induces microbiota pathogenicity contributing to mucosal inflammation",
+    "year": 2026,
+    "type": "article",
+    "journal": "Gut Microbes",
+    "authors": [
+      {
+        "name": "Guillaume Le Cosquer"
+      },
+      {
+        "name": "Melissa Pannier"
+      },
+      {
+        "name": "J Thevenin"
+      },
+      {
+        "name": "Laura Guiraud",
+        "id": "laura.guiraud",
+        "team": "eq1"
+      },
+      {
+        "name": "M\u00e9lissa David"
+      },
+      {
+        "name": "Alexia Dumas"
+      },
+      {
+        "name": "Elodie Meunier"
+      },
+      {
+        "name": "Perrine Rousset"
+      },
+      {
+        "name": "Simone Palese"
+      },
+      {
+        "name": "Carmine Giorgio"
+      },
+      {
+        "name": "Louis Buscail"
+      },
+      {
+        "name": "Barbara Bournet"
+      },
+      {
+        "name": "Cyrielle Gilletta"
+      },
+      {
+        "name": "Adrian Culetto"
+      },
+      {
+        "name": "Cindy Canivet"
+      },
+      {
+        "name": "\u00c9tienne Buscail"
+      },
+      {
+        "name": "Caroline Camar\u00e9"
+      },
+      {
+        "name": "Laurent Alric"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Jean\u2010Paul Motta",
+        "id": "jean-paul.motta",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": [
+      "eq1"
+    ]
+  },
+  {
+    "doi": "10.3389/ftox.2026.1839932",
+    "title": "Intestinal toxicity of functionalized polystyrene nanoplastics in NOD2 models of Crohn\u2019s disease susceptibility",
+    "year": 2026,
+    "type": "article",
+    "journal": "Frontiers in Toxicology",
+    "authors": [
+      {
+        "name": "Manon Dussol"
+      },
+      {
+        "name": "Sandrine M\u00e9nard",
+        "id": "sandrine.menard",
+        "team": "eq6"
+      },
+      {
+        "name": "Margaux Papin"
+      },
+      {
+        "name": "Maeva Boul\u00e9e"
+      },
+      {
+        "name": "V\u00e9rane Bard"
+      },
+      {
+        "name": "Melvin Airaud"
+      },
+      {
+        "name": "Daphna Fenel"
+      },
+      {
+        "name": "Christine Moriscot"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9rick Barreau",
+        "id": "frederick.barreau",
+        "team": "eq6"
+      },
+      {
+        "name": "Marie Carriere"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1002/jpn3.70517",
+    "title": "Exclusive enteral nutrition containing transforming growth factor\u2010\u03b2 improves intestinal barrier function in a colitis mouse model",
+    "year": 2026,
+    "type": "article",
+    "journal": "Journal of Pediatric Gastroenterology and Nutrition",
+    "authors": [
+      {
+        "name": "Kawthar Boumessid"
+      },
+      {
+        "name": "Vickie Lacroix"
+      },
+      {
+        "name": "Ekaterina Ovtchinnikova"
+      },
+      {
+        "name": "Sophie Thenet"
+      },
+      {
+        "name": "Marie Carriere"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9rick Barreau",
+        "id": "frederick.barreau",
+        "team": "eq6"
+      },
+      {
+        "name": "Emmanuel Mas",
+        "id": "emmanuel.mas",
+        "team": "eq6"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1038/s41467-026-75915-8",
+    "title": "Fast-growing intracellular Mycobacterium tuberculosis populations evade antibiotic treatment",
+    "year": 2026,
+    "type": "article",
+    "journal": "Nature Communications",
+    "authors": [
+      {
+        "name": "Nathan Day"
+      },
+      {
+        "name": "Baptiste Pradel"
+      },
+      {
+        "name": "Chak Hon Luk"
+      },
+      {
+        "name": "Pierre Santucci"
+      },
+      {
+        "name": "Antony Fearns"
+      },
+      {
+        "name": "Angela Rodgers"
+      },
+      {
+        "name": "Beren Aylan"
+      },
+      {
+        "name": "Laure Botella"
+      },
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      },
+      {
+        "name": "Julio Ortiz Canseco"
+      },
+      {
+        "name": "Natalia Athanasiadi"
+      },
+      {
+        "name": "Maximiliano G. Guti\u00e9rrez"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
+    "doi": "10.1007/s11357-026-02251-6",
+    "title": "Bidirectional associations between biological aging, cardiovascular health, and cardiovascular risk: findings from the INSPIRE-T lifespan cohort",
+    "year": 2026,
+    "type": "article",
+    "journal": "GeroScience",
+    "authors": [
+      {
+        "name": "Mathilde Strumia"
+      },
+      {
+        "name": "Vanina Bongard"
+      },
+      {
+        "name": "Samuel Thuriot"
+      },
+      {
+        "name": "Philippe Cestac"
+      },
+      {
+        "name": "Brigitte Sallerin"
+      },
+      {
+        "name": "Jean-Marc Lema\u0131\u0302tre"
+      },
+      {
+        "name": "David Furman"
+      },
+      {
+        "name": "Sophie Guyonnet"
+      },
+      {
+        "name": "Bruno Vellas"
+      },
+      {
+        "name": "Sandrine Andrieu"
+      },
+      {
+        "name": "Laure Rouch"
+      },
+      {
+        "name": "for the I. H. U. HealthAge INSPIRE/Open Science group"
+      },
+      {
+        "name": "Sophie Guyonnet"
+      },
+      {
+        "name": "Bruno Vellas"
+      },
+      {
+        "name": "Laur\u00e9ane Brigitte"
+      },
+      {
+        "name": "Agathe Milhet"
+      },
+      {
+        "name": "Elodie Paez"
+      },
+      {
+        "name": "Emeline M\u00fcller"
+      },
+      {
+        "name": "Sabine Le Floch"
+      },
+      {
+        "name": "Catherine Takeda"
+      },
+      {
+        "name": "Catherine Faisant"
+      },
+      {
+        "name": "Fran\u00e7oise Lala"
+      },
+      {
+        "name": "Gabor Abellan Van Kan"
+      },
+      {
+        "name": "Zara Steinmeyer"
+      },
+      {
+        "name": "Antoine Piau"
+      },
+      {
+        "name": "Tony Macaron"
+      },
+      {
+        "name": "Davide Angioni"
+      },
+      {
+        "name": "Pierre\u2010Jean Ousset"
+      },
+      {
+        "name": "M\u00e9lanie Comt\u00e9"
+      },
+      {
+        "name": "Nathalie Daniaud"
+      },
+      {
+        "name": "Fanny Boissou-Parachaud"
+      },
+      {
+        "name": "Sandrine Andrieu"
+      },
+      {
+        "name": "Christelle Cantet"
+      },
+      {
+        "name": "Yves Rolland"
+      },
+      {
+        "name": "Philipe de Souto Barreto"
+      },
+      {
+        "name": "Fabien Pillard"
+      },
+      {
+        "name": "Bernard Teysseyre"
+      },
+      {
+        "name": "Marie Faruch"
+      },
+      {
+        "name": "Pierre Payoux"
+      },
+      {
+        "name": "Catherine Takeda"
+      },
+      {
+        "name": "N\u00e9da Tavassoli"
+      },
+      {
+        "name": "Marie Dorard"
+      },
+      {
+        "name": "B\u00e9n\u00e9dicte Razat"
+      },
+      {
+        "name": "Camille Champigny"
+      },
+      {
+        "name": "Sophie Guyonnet"
+      },
+      {
+        "name": "C\u00e9dric Dray"
+      },
+      {
+        "name": "Jean-Philippe Pradere"
+      },
+      {
+        "name": "Angelo Parini"
+      },
+      {
+        "name": "Yohan Santin"
+      },
+      {
+        "name": "Dominique Langin"
+      },
+      {
+        "name": "Pierre Gourdy"
+      },
+      {
+        "name": "Laurent O. Martinez"
+      },
+      {
+        "name": "Anne Bouloumi\u00e9"
+      },
+      {
+        "name": "Angelo Parini"
+      },
+      {
+        "name": "Nicolas Fazilleau"
+      },
+      {
+        "name": "Roland Liblau"
+      },
+      {
+        "name": "Jean-Charles Gu\u00e9ry"
+      },
+      {
+        "name": "Michel Simon"
+      },
+      {
+        "name": "Nicolas Gaudenzio"
+      },
+      {
+        "name": "Luciana Bostan"
+      },
+      {
+        "name": "Hicham El Costa"
+      },
+      {
+        "name": "Nabila Jabrane Ferrat"
+      },
+      {
+        "name": "Philippe Valet"
+      },
+      {
+        "name": "C\u00e9dric Dray"
+      },
+      {
+        "name": "Isabelle Ader"
+      },
+      {
+        "name": "Val\u00e9rie Planat"
+      },
+      {
+        "name": "L. Casteilla"
+      },
+      {
+        "name": "Pierre Payoux"
+      },
+      {
+        "name": "Patrice P\u00e9ran"
+      },
+      {
+        "name": "Cyrille Delpierre"
+      },
+      {
+        "name": "Sandrine Andrieu"
+      },
+      {
+        "name": "Claire Rampon"
+      },
+      {
+        "name": "No\u00e9lie Davezac"
+      },
+      {
+        "name": "Bruno Guiard"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Jean\u2010Paul Motta",
+        "id": "jean-paul.motta",
+        "team": "eq1"
+      },
+      {
+        "name": "Sara Djebali"
+      },
+      {
+        "name": "Pauline Floch"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Chrystelle Bonnart",
+        "id": "chrystelle.bonnard",
+        "team": "eq1"
+      },
+      {
+        "name": "Jean-Emmanuel Sarry"
+      },
+      {
+        "name": "Nicola Coley"
+      },
+      {
+        "name": "Sophie Guyonnet"
+      },
+      {
+        "name": "Christelle Cantet"
+      },
+      {
+        "name": "Jessica Pontary"
+      },
+      {
+        "name": "Sandrine Andrieu"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1001/jamanetworkopen.2026.24102",
+    "title": "Accelerated Epigenetic and Inflammatory Aging and Intrinsic Capacity",
+    "year": 2026,
+    "type": "article",
+    "journal": "JAMA Network Open",
+    "authors": [
+      {
+        "name": "Laure Rouch"
+      },
+      {
+        "name": "Philipe de Souto Barreto"
+      },
+      {
+        "name": "Yves Rolland"
+      },
+      {
+        "name": "Sophie Guyonnet"
+      },
+      {
+        "name": "Philippe Cestac"
+      },
+      {
+        "name": "Wan\u2010Hsuan Lu"
+      },
+      {
+        "name": "Jean-Marc Lema\u0131\u0302tre"
+      },
+      {
+        "name": "Paul Bensadoun"
+      },
+      {
+        "name": "David Furman"
+      },
+      {
+        "name": "Vellas Bj"
+      },
+      {
+        "name": "Andrieu S"
+      },
+      {
+        "name": "IHU HealthAge INSPIRE/Open Science group"
+      },
+      {
+        "name": "Sophie Guyonnet"
+      },
+      {
+        "name": "Vellas Bj"
+      },
+      {
+        "name": "Laur\u00e9ane Brigitte"
+      },
+      {
+        "name": "Agathe Milhet"
+      },
+      {
+        "name": "Elodie Paez"
+      },
+      {
+        "name": "Emeline M\u00fcller"
+      },
+      {
+        "name": "Sabine Le Floch"
+      },
+      {
+        "name": "Catherine Takeda"
+      },
+      {
+        "name": "Catherine Faisant"
+      },
+      {
+        "name": "Fran\u00e7oise Lala"
+      },
+      {
+        "name": "Gabor Abellan Van Kan"
+      },
+      {
+        "name": "Zara Steinmeyer"
+      },
+      {
+        "name": "Antoine Piau"
+      },
+      {
+        "name": "Tony Macaron"
+      },
+      {
+        "name": "Davide Angioni"
+      },
+      {
+        "name": "Ousset Pj"
+      },
+      {
+        "name": "M\u00e9lanie Comt\u00e9"
+      },
+      {
+        "name": "Nathalie Daniaud"
+      },
+      {
+        "name": "Fanny Boissou-Parachaud"
+      },
+      {
+        "name": "Andrieu S"
+      },
+      {
+        "name": "Christelle Cantet"
+      },
+      {
+        "name": "Yves Rolland"
+      },
+      {
+        "name": "Philipe de Souto Barreto"
+      },
+      {
+        "name": "Fabien Pillard"
+      },
+      {
+        "name": "Bernard Teysseyre"
+      },
+      {
+        "name": "Marie Faruch"
+      },
+      {
+        "name": "Pierre Payoux"
+      },
+      {
+        "name": "N\u00e9da Tavassoli"
+      },
+      {
+        "name": "Maria Eugenia Soto"
+      },
+      {
+        "name": "Marie Dorard"
+      },
+      {
+        "name": "B\u00e9n\u00e9dicte Razat"
+      },
+      {
+        "name": "Camille Champigny"
+      },
+      {
+        "name": "C\u00e9dric Dray"
+      },
+      {
+        "name": "Jean-Philippe Prad\u00e8re"
+      },
+      {
+        "name": "Angelo Parini"
+      },
+      {
+        "name": "Yohan Santin"
+      },
+      {
+        "name": "Dominique Langin"
+      },
+      {
+        "name": "P Gourdy"
+      },
+      {
+        "name": "Laurent O. Martinez"
+      },
+      {
+        "name": "Anne Bouloumi\u00e9"
+      },
+      {
+        "name": "Nicolas Fazilleau"
+      },
+      {
+        "name": "Roland Liblau"
+      },
+      {
+        "name": "J Guery"
+      },
+      {
+        "name": "Michel Simon"
+      },
+      {
+        "name": "Nicolas Gaudenzio"
+      },
+      {
+        "name": "Luciana Bostan"
+      },
+      {
+        "name": "Hicham El Costa"
+      },
+      {
+        "name": "Nabila Jabrane Ferrat"
+      },
+      {
+        "name": "Philippe Valet"
+      },
+      {
+        "name": "Isabelle Ader"
+      },
+      {
+        "name": "Val\u00e9rie Planat"
+      },
+      {
+        "name": "Louis Casteilla"
+      },
+      {
+        "name": "Patrice P\u00e9ran"
+      },
+      {
+        "name": "Cyrille Delpierre"
+      },
+      {
+        "name": "Claire Rampon"
+      },
+      {
+        "name": "No\u00e9lie Davezac"
+      },
+      {
+        "name": "Bruno Guiard"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Jean\u2010Paul Motta",
+        "id": "jean-paul.motta",
+        "team": "eq1"
+      },
+      {
+        "name": "Sara Djebali"
+      },
+      {
+        "name": "Pauline Floch"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Chrystelle Bonnart",
+        "id": "chrystelle.bonnard",
+        "team": "eq1"
+      },
+      {
+        "name": "Jean-Emmanuel Sarry"
+      },
+      {
+        "name": "Nicola Coley"
+      },
+      {
+        "name": "Jessica Pontary"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1186/s12989-026-00700-w",
+    "title": "Perinatal exposure to nano-polystyrene: deleterious imprinting on inflammatory bowel diseases",
+    "year": 2026,
+    "type": "article",
+    "journal": "Particle and Fibre Toxicology",
+    "authors": [
+      {
+        "name": "Melvin Airaud"
+      },
+      {
+        "name": "Amandine Roldan"
+      },
+      {
+        "name": "Jeanne Le Cl\u00e9ac'h"
+      },
+      {
+        "name": "Lisa Isoard",
+        "id": "lisa.isoard",
+        "team": "eq6"
+      },
+      {
+        "name": "Marie Carri\u00e8re"
+      },
+      {
+        "name": "Sandrine M\u00e9nard",
+        "id": "sandrine.menard",
+        "team": "eq6"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9rick Barreau",
+        "id": "frederick.barreau",
+        "team": "eq6"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1002/jev2.70150",
+    "title": "Outer Membrane Vesicles as a Versatile Platform for Vaccine Development: Engineering Strategies, Applications and Challenges",
+    "year": 2025,
+    "type": "article",
+    "journal": "Journal of Extracellular Vesicles",
+    "authors": [
+      {
+        "name": "Asja Garling"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9ric Auvray",
+        "id": "frederic.auvray",
+        "team": "eq2"
+      },
+      {
+        "name": "Mathieu Epardaud"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      },
+      {
+        "name": "Priscilla Branchu",
+        "id": "priscilla.branchu",
+        "team": "eq2"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1007/s00535-025-02289-x",
+    "title": "Main genetic factors associated with inflammatory bowel diseases and their consequences on intestinal permeability: involvement in gut inflammation",
+    "year": 2025,
+    "type": "article",
+    "journal": "Journal of Gastroenterology",
+    "authors": [
+      {
+        "name": "Arthur Mauduit",
+        "id": "arthur.mauduit",
+        "team": "eq6"
+      },
+      {
+        "name": "Emmanuel Mas"
+      },
+      {
+        "name": "N\u00faria Sol\u00e0-Tapias"
+      },
+      {
+        "name": "Sandrine M\u00e9nard",
+        "id": "sandrine.menard",
+        "team": "eq6"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9rick Barreau",
+        "id": "frederick.barreau",
+        "team": "eq6"
+      }
+    ],
+    "sel_team": [
+      "eq6"
+    ]
+  },
+  {
+    "doi": "10.1186/s13567-025-01493-0",
+    "title": "Zoonotic potential of uropathogenic Escherichia coli lineages from companion animals",
+    "year": 2025,
+    "type": "article",
+    "journal": "Veterinary Research",
+    "authors": [
+      {
+        "name": "Nicolas Jousserand"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9ric Auvray",
+        "id": "frederic.auvray",
+        "team": "eq2"
+      },
+      {
+        "name": "Camille V. Chagneau"
+      },
+      {
+        "name": "Laurent Cavali\u00e9"
+      },
+      {
+        "name": "Christelle Maurey"
+      },
+      {
+        "name": "Amandine Drut"
+      },
+      {
+        "name": "Rachel Lavou\u00e9"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1002/jev2.70032",
+    "title": "Uncovering a new family of conserved virulence factors that promote the production of host\u2010damaging outer membrane vesicles in Gram\u2010negative bacteria",
+    "year": 2025,
+    "type": "article",
+    "journal": "Journal of Extracellular Vesicles",
+    "authors": [
+      {
+        "name": "Audrey Goman"
+      },
+      {
+        "name": "B\u00e9reng\u00e8re Ize"
+      },
+      {
+        "name": "Katy Jeannot"
+      },
+      {
+        "name": "Camille Pin"
+      },
+      {
+        "name": "Delphine Payros"
+      },
+      {
+        "name": "C\u00e9cile Goursat"
+      },
+      {
+        "name": "L\u00e9a Ravon\u2010Katossky"
+      },
+      {
+        "name": "Kazunori Murase"
+      },
+      {
+        "name": "Camille V. Chagneau"
+      },
+      {
+        "name": "H\u00e9l\u00e8ne Guet\u2010Revillet"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9ric Ta\u00efeb",
+        "id": "frederic.taieb",
+        "team": "eq2"
+      },
+      {
+        "name": "Sophie Bleves"
+      },
+      {
+        "name": "Laure David",
+        "id": "laure.david",
+        "team": "eq2"
+      },
+      {
+        "name": "\u00c9tienne Meunier"
+      },
+      {
+        "name": "Priscilla Branchu",
+        "id": "priscilla.branchu",
+        "team": "eq2"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      }
+    ],
+    "sel_team": [
+      "eq2"
+    ]
+  },
+  {
+    "doi": "10.1371/journal.pcbi.1012681",
+    "title": "Deciphering the interplay between biology and physics with a finite element method-implemented vertex organoid model: A tool for the mechanical analysis of cell behavior on a spherical organoid shell",
+    "year": 2025,
+    "type": "article",
+    "journal": "PLOS Computational Biology",
+    "authors": [
+      {
+        "name": "Julien Laussu"
+      },
+      {
+        "name": "D\u00e9borah Michel"
+      },
+      {
+        "name": "L. Magne"
+      },
+      {
+        "name": "St\u00e9phane Segonds"
+      },
+      {
+        "name": "Steven Marguet"
+      },
+      {
+        "name": "Dimitri Hamel"
+      },
+      {
+        "name": "Muriel Quaranta-Nicaise"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9rick Barreau",
+        "id": "frederick.barreau",
+        "team": "eq6"
+      },
+      {
+        "name": "Emmanuel Mas",
+        "id": "emmanuel.mas",
+        "team": "eq6"
+      },
+      {
+        "name": "Vincent Velay"
+      },
+      {
+        "name": "Florian Bugarin"
+      },
+      {
+        "name": "Audrey Ferrand"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1016/j.vaccine.2025.126899",
+    "title": "Development of intimin-enriched outer membrane vesicles (OMVs) as a vaccine to control intestinal carriage of Enterohemorrhagic Escherichia coli",
+    "year": 2025,
+    "type": "article",
+    "journal": "Vaccine",
+    "authors": [
+      {
+        "name": "Asja Garling"
+      },
+      {
+        "name": "C\u00e9cile Goursat"
+      },
+      {
+        "name": "Carine S\u00e9guy"
+      },
+      {
+        "name": "Patricia Mart\u00edn"
+      },
+      {
+        "name": "Audrey Goman"
+      },
+      {
+        "name": "Jean\u2010Philippe Nougayr\u00e8de",
+        "id": "jean-philippe.nougayrede",
+        "team": "eq2"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9ric Auvray",
+        "id": "frederic.auvray",
+        "team": "eq2"
+      },
+      {
+        "name": "Priscilla Branchu",
+        "id": "priscilla.branchu",
+        "team": "eq2"
+      }
+    ],
+    "sel_team": [
+      "eq2"
+    ]
+  },
+  {
+    "doi": "10.1146/annurev-pharmtox-051921-084536",
+    "title": "Pharmacology of Intestinal Inflammation and Repair",
+    "year": 2025,
+    "type": "article",
+    "journal": "Annual Review of Pharmacology and Toxicology",
+    "authors": [
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1111/bph.70100",
+    "title": "Bispecific nanobody\u00ae as a new pharmacological drug for the selective inhibition of Trypsin\u20103",
+    "year": 2025,
+    "type": "article",
+    "journal": "British Journal of Pharmacology",
+    "authors": [
+      {
+        "name": "M\u00e9lissa David"
+      },
+      {
+        "name": "Ana\u00efs Faihy"
+      },
+      {
+        "name": "Corinne Rolland"
+      },
+      {
+        "name": "Anissa Edir",
+        "id": "anissa.edir",
+        "team": "eq1"
+      },
+      {
+        "name": "Astrid Canivet"
+      },
+      {
+        "name": "L\u00e6titia Ligat"
+      },
+      {
+        "name": "Mireille Sebbag"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Aur\u00e9lien Olichon"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1016/j.jcf.2025.05.003",
+    "title": "Evolution of hepatobiliary involvement in cystic fibrosis children on CFTR modulators",
+    "year": 2025,
+    "type": "article",
+    "journal": "Journal of Cystic Fibrosis",
+    "authors": [
+      {
+        "name": "M\u00e9lanie Auvray"
+      },
+      {
+        "name": "Nolwenn Laborde"
+      },
+      {
+        "name": "Marie Mittaine"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9rick Barreau",
+        "id": "frederick.barreau",
+        "team": "eq6"
+      },
+      {
+        "name": "G\u00e9raldine Labouret"
+      },
+      {
+        "name": "L\u00e9a Roditis"
+      },
+      {
+        "name": "Clara Flumian"
+      },
+      {
+        "name": "A. Arrouy"
+      },
+      {
+        "name": "Emmanuel Mas",
+        "id": "emmanuel.mas",
+        "team": "eq6"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1096/fba.2025-00022",
+    "title": "Comparative analysis of dietary iron deprivation and supplementation in a murine model of colitis",
+    "year": 2025,
+    "type": "article",
+    "journal": "FASEB BioAdvances",
+    "authors": [
+      {
+        "name": "Thanina Medjbeur",
+        "id": "thanina.medjbeur",
+        "team": "eq5"
+      },
+      {
+        "name": "Ugo Sardo",
+        "id": "ugo.sardo",
+        "team": ""
+      },
+      {
+        "name": "Prunelle Perrier"
+      },
+      {
+        "name": "K\u00e9vin Cormier"
+      },
+      {
+        "name": "Maryline Roy"
+      },
+      {
+        "name": "Anne Dumay"
+      },
+      {
+        "name": "L\u00e9on Kautz",
+        "id": "leon.kautz",
+        "team": "eq5"
+      }
+    ],
+    "sel_team": [
+      "eq5"
+    ]
+  },
+  {
+    "doi": "10.1038/s41522-025-00716-8",
+    "title": "Pathogenicity of commensal gut biofilm in prefrail aging",
+    "year": 2025,
+    "type": "article",
+    "journal": "npj Biofilms and Microbiomes",
+    "authors": [
+      {
+        "name": "Guillaume Le Cosquer"
+      },
+      {
+        "name": "Melissa Pannier"
+      },
+      {
+        "name": "Elodie Meunier"
+      },
+      {
+        "name": "Julie Thevenin"
+      },
+      {
+        "name": "Elise Pyhourquet"
+      },
+      {
+        "name": "Sophie Guyonnet"
+      },
+      {
+        "name": "Bruno Vellas"
+      },
+      {
+        "name": "Yohan Santin"
+      },
+      {
+        "name": "Bruno P. Guiard"
+      },
+      {
+        "name": "Angelo Parini"
+      },
+      {
+        "name": "Louis Buscail"
+      },
+      {
+        "name": "Barbara Bournet"
+      },
+      {
+        "name": "Damien Guillemet"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Jean\u2010Paul Motta",
+        "id": "jean-paul.motta",
+        "team": "eq1"
+      },
+      {
+        "name": "for the IHU HealthAge INSPIRE/Open Science study group"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1016/j.lfs.2025.124114",
+    "title": "Oral indomethacin modifies small intestine biofilms and host-microbe interaction mediators",
+    "year": 2025,
+    "type": "article",
+    "journal": "Life Sciences",
+    "authors": [
+      {
+        "name": "Arezoo Haghighi"
+      },
+      {
+        "name": "Andr\u00e1s S. T\u00f3th"
+      },
+      {
+        "name": "Zsuzsanna O. Demeter"
+      },
+      {
+        "name": "Barbara Hutka"
+      },
+      {
+        "name": "Anna Zsidai"
+      },
+      {
+        "name": "Lili Lengyel"
+      },
+      {
+        "name": "Samaneh Haghighi"
+      },
+      {
+        "name": "Melissa Pannier"
+      },
+      {
+        "name": "Guillaume Le Cosquer"
+      },
+      {
+        "name": "Elodie Meunier"
+      },
+      {
+        "name": "Bence \u00c1gg"
+      },
+      {
+        "name": "N\u00f3ra Makra"
+      },
+      {
+        "name": "Eszter Ostorh\u00e1zi"
+      },
+      {
+        "name": "Bal\u00e1zs Ligeti"
+      },
+      {
+        "name": "Kriszti\u00e1n A. Kov\u00e1cs"
+      },
+      {
+        "name": "\u00c1gnes Kelemen"
+      },
+      {
+        "name": "Anna Jakab"
+      },
+      {
+        "name": "Gerda Wachtl"
+      },
+      {
+        "name": "G\u00e1bor K\u00f6k\u00e9ny"
+      },
+      {
+        "name": "D\u00f3ra Szab\u00f3"
+      },
+      {
+        "name": "P\u00e9ter Ferdinandy"
+      },
+      {
+        "name": "Jean\u2010Paul Motta",
+        "id": "jean-paul.motta",
+        "team": "eq1"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Kl\u00e1ra Gyires"
+      },
+      {
+        "name": "Zolt\u00e1n Z\u00e1dori"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1016/j.xhgg.2025.100457",
+    "title": "Polygenic risk score prediction accuracy convergence",
+    "year": 2025,
+    "type": "article",
+    "journal": "Human Genetics and Genomics Advances",
+    "authors": [
+      {
+        "name": "L\u00e9o Henches"
+      },
+      {
+        "name": "Jihye Kim"
+      },
+      {
+        "name": "Zhiyu Yang"
+      },
+      {
+        "name": "Simone Rubinacci"
+      },
+      {
+        "name": "Gabriel Pires"
+      },
+      {
+        "name": "Clara Albi\u00f1ana"
+      },
+      {
+        "name": "Christophe Boetto"
+      },
+      {
+        "name": "Hanna Julienne"
+      },
+      {
+        "name": "Arthur Frouin",
+        "id": "arthur.frouin",
+        "team": "eq4"
+      },
+      {
+        "name": "Antoine Auvergne"
+      },
+      {
+        "name": "Yuka Suzuki"
+      },
+      {
+        "name": "Sarah Djebali",
+        "id": "sarah.djebali",
+        "team": "eq4"
+      },
+      {
+        "name": "Olivier Delaneau"
+      },
+      {
+        "name": "Andrea Ganna"
+      },
+      {
+        "name": "Bjarni J. Vilhj\u00e1lmsson"
+      },
+      {
+        "name": "Florian Priv\u00e9"
+      },
+      {
+        "name": "Hugues Aschard"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1096/fj.202501997r",
+    "title": "Ablation of Hepatocyte Derived\u2010FGL1 Does Not Aggravate Metabolic Dysfunction\u2010Associated Steatotic Liver Disease",
+    "year": 2025,
+    "type": "article",
+    "journal": "The FASEB Journal",
+    "authors": [
+      {
+        "name": "Jean Personnaz",
+        "id": "jean.personnaz",
+        "team": "eq5"
+      },
+      {
+        "name": "Lisa Cannizzo",
+        "id": "lisa.cannizzo",
+        "team": "eq5"
+      },
+      {
+        "name": "C\u00e9line Marie Pauline Martin"
+      },
+      {
+        "name": "Aurore Desquesnes",
+        "id": "aurore.desquesnes",
+        "team": "eq5"
+      },
+      {
+        "name": "Manon Sotin"
+      },
+      {
+        "name": "Joanna DaSilva"
+      },
+      {
+        "name": "Prunelle Perrier"
+      },
+      {
+        "name": "Herv\u00e9 Guillou"
+      },
+      {
+        "name": "L\u00e9on Kautz",
+        "id": "leon.kautz",
+        "team": "eq5"
+      }
+    ],
+    "sel_team": [
+      "eq5"
+    ]
+  },
+  {
+    "doi": "10.1111/nmo.70157",
+    "title": "Modeling Postoperative Pathologic Ileus in Mice: A Simplified and Translational Approach",
+    "year": 2025,
+    "type": "article",
+    "journal": "Neurogastroenterology &amp; Motility",
+    "authors": [
+      {
+        "name": "Romain Gauthier"
+      },
+      {
+        "name": "Julie Thevenin"
+      },
+      {
+        "name": "Thibault Planchamp"
+      },
+      {
+        "name": "T\u00e9o Berthon"
+      },
+      {
+        "name": "Perrine Rousset"
+      },
+      {
+        "name": "Shuai Wang"
+      },
+      {
+        "name": "Astrid Canivet"
+      },
+      {
+        "name": "Claude Knauf"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "\u00c9tienne Buscail"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1101/2025.03.27.645671",
+    "title": "Outer Membrane Vesicles from bacteria expressing the HlyF/CprA family of enzymes are more efficient at delivering their cargo into host cells",
+    "year": 2025,
+    "type": "preprint",
+    "journal": "bioRxiv",
+    "authors": [
+      {
+        "name": "Fr\u00e9d\u00e9ric Ta\u00efeb",
+        "id": "frederic.taieb",
+        "team": "eq2"
+      },
+      {
+        "name": "Laure David",
+        "id": "laure.david",
+        "team": "eq2"
+      },
+      {
+        "name": "Camille Pin"
+      },
+      {
+        "name": "Audrey Goman"
+      },
+      {
+        "name": "Asja Garling"
+      },
+      {
+        "name": "Christelle Marrauld"
+      },
+      {
+        "name": "Marine Colson"
+      },
+      {
+        "name": "Marie P\u00e9nary"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1101/2025.07.01.662645",
+    "title": "Bacterial Hsp90 promotes virulence factor production through maintenance of NRPS megaenzymes",
+    "year": 2025,
+    "type": "preprint",
+    "journal": "bioRxiv",
+    "authors": [
+      {
+        "name": "Alison Fratacci"
+      },
+      {
+        "name": "Amine Ali Chaouche"
+      },
+      {
+        "name": "Marie Corteggiani"
+      },
+      {
+        "name": "Flora A. Honor\u00e9"
+      },
+      {
+        "name": "Manel Khelil Berbar"
+      },
+      {
+        "name": "Nad\u00e8ge Bossuet\u2010Greif"
+      },
+      {
+        "name": "S\u00e9bastien Dementin"
+      },
+      {
+        "name": "Sophie Bleves"
+      },
+      {
+        "name": "Maya Belghazi"
+      },
+      {
+        "name": "R\u00e9gine Lebrun"
+      },
+      {
+        "name": "Jean\u2010Philippe Nougayr\u00e8de",
+        "id": "jean-philippe.nougayrede",
+        "team": "eq2"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      },
+      {
+        "name": "B\u00e9reng\u00e8re Ize"
+      },
+      {
+        "name": "Olivier Genest"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1101/2025.07.10.663215",
+    "title": "Colitis-primed circulating T cells drive small intestinal barrier function through Nod2, microbiota and myosin light chain kinase-dependent mechanisms",
+    "year": 2025,
+    "type": "preprint",
+    "journal": "bioRxiv",
+    "authors": [
+      {
+        "name": "Arthur Mauduit",
+        "id": "arthur.mauduit",
+        "team": "eq6"
+      },
+      {
+        "name": "Talal Nabhani"
+      },
+      {
+        "name": "Luisa Morelli"
+      },
+      {
+        "name": "Floriane Cherrier"
+      },
+      {
+        "name": "Rosemary Abdoul Ahad"
+      },
+      {
+        "name": "Nidal Nabhani"
+      },
+      {
+        "name": "Gurminder Singh"
+      },
+      {
+        "name": "Maryline Roy"
+      },
+      {
+        "name": "Gilles Dietrich"
+      },
+      {
+        "name": "Jerrold R. Turner"
+      },
+      {
+        "name": "Jean\u2010Pierre Hugot"
+      },
+      {
+        "name": "Andrew J. Macpherson"
+      },
+      {
+        "name": "Emmanuel Mas",
+        "id": "emmanuel.mas",
+        "team": "eq6"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9rick Barreau",
+        "id": "frederick.barreau",
+        "team": "eq6"
+      },
+      {
+        "name": "Ziad Al Nabhani"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1128/spectrum.00665-25",
+    "title": "Studying *Pseudomonas aeruginosa* pathogenesis: the need for more than just the PAO1 strain",
+    "year": 2025,
+    "type": "article",
+    "journal": "Microbiology Spectrum",
+    "authors": [
+      {
+        "name": "Laure David",
+        "id": "laure.david",
+        "team": "eq2"
+      },
+      {
+        "name": "Audrey Goman"
+      },
+      {
+        "name": "Camille Pin"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9ric Ta\u00efeb",
+        "id": "frederic.taieb",
+        "team": "eq2"
+      },
+      {
+        "name": "Priscilla Branchu",
+        "id": "priscilla.branchu",
+        "team": "eq2"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1101/2025.10.10.681568",
+    "title": "Alanine dependence of trans-translation contributes to riboregulation of mycobacterial antibiotic recalcitrance genes",
+    "year": 2025,
+    "type": "preprint",
+    "journal": "bioRxiv",
+    "authors": [
+      {
+        "name": "Andrea Majstorovi\u0107"
+      },
+      {
+        "name": "H\u00e9l\u00e8ne Botella"
+      },
+      {
+        "name": "Sarah Schrader"
+      },
+      {
+        "name": "Yaroslav Lavrynchuk"
+      },
+      {
+        "name": "Xinguo Chen"
+      },
+      {
+        "name": "Enkai Jin"
+      },
+      {
+        "name": "Jason Taslim"
+      },
+      {
+        "name": "Rudy Antoine"
+      },
+      {
+        "name": "Alain R. Baulard"
+      },
+      {
+        "name": "Christophe Guilhot"
+      },
+      {
+        "name": "Przemys\u0142aw P\u0142oci\u0144ski"
+      },
+      {
+        "name": "Sandra L. Wolin"
+      },
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
+    "doi": "10.1530/mah-25-0007",
+    "title": "Evaluation of the prebiotic potential of polyphenol-rich plant extracts in a mouse model of colitis",
+    "year": 2025,
+    "type": "article",
+    "journal": "Microbiota and Host",
+    "authors": [
+      {
+        "name": "Damien Guillemet"
+      },
+      {
+        "name": "Perrine Rousset"
+      },
+      {
+        "name": "Guillaume Le Cosquer"
+      },
+      {
+        "name": "Melissa Pannier"
+      },
+      {
+        "name": "Anissa Edir",
+        "id": "anissa.edir",
+        "team": "eq1"
+      },
+      {
+        "name": "Julie Thevenin"
+      },
+      {
+        "name": "Laura Guiraud",
+        "id": "laura.guiraud",
+        "team": "eq1"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Jean\u2010Paul Motta",
+        "id": "jean-paul.motta",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1016/j.cmi.2025.05.018",
+    "title": "Humans as a potential reservoir for the emerging ST301 Shiga toxin-producing Escherichia coli clones of serotype O80:H2?",
+    "year": 2025,
+    "type": "article",
+    "journal": "Clinical Microbiology and Infection",
+    "authors": [
+      {
+        "name": "Fr\u00e9d\u00e9ric Auvray",
+        "id": "frederic.auvray",
+        "team": "eq2"
+      },
+      {
+        "name": "Federica Gigliucci"
+      },
+      {
+        "name": "Valeria Michelacci"
+      },
+      {
+        "name": "Gaia Scavia"
+      },
+      {
+        "name": "Laurent Cavali\u00e9"
+      },
+      {
+        "name": "Aur\u00e9lie Cointe"
+      },
+      {
+        "name": "Florence Cromb\u00e9"
+      },
+      {
+        "name": "Flemming Scheutz"
+      },
+      {
+        "name": "Claire Jenkins"
+      },
+      {
+        "name": "Stefano Morabito"
+      },
+      {
+        "name": "St\u00e9phane Bonacorsi"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1038/s41417-025-00984-8",
+    "title": "Bacterial nanoparticles as a potent and safe alternative to BCG for bladder cancer immunotherapy",
+    "year": 2025,
+    "type": "article",
+    "journal": "Cancer Gene Therapy",
+    "authors": [
+      {
+        "name": "Marine Colson"
+      },
+      {
+        "name": "Arthur Aubry"
+      },
+      {
+        "name": "Nicolas Gaide"
+      },
+      {
+        "name": "Philippe Lluel"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      },
+      {
+        "name": "Laure David",
+        "id": "laure.david",
+        "team": "eq2"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.2139/ssrn.5550796",
+    "title": "Toxicity of polystyrene particles to mice and in vitro models of intestinal cells, both healthy and with genetic susceptibility to Crohn\u2019s disease",
+    "year": 2025,
+    "type": "preprint",
+    "journal": null,
+    "authors": [
+      {
+        "name": "Manon Dussol"
+      },
+      {
+        "name": "Sandrine M\u00e9nard",
+        "id": "sandrine.menard",
+        "team": "eq6"
+      },
+      {
+        "name": "Margaux Papin"
+      },
+      {
+        "name": "Ma\u00ebva Boul\u00e9e"
+      },
+      {
+        "name": "V\u00e9rane Bard"
+      },
+      {
+        "name": "Melvin Airaud"
+      },
+      {
+        "name": "Daphna Fenel"
+      },
+      {
+        "name": "Christine Moriscot"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9rick Barreau",
+        "id": "frederick.barreau",
+        "team": "eq6"
+      },
+      {
+        "name": "Marie Carri\u00e8re"
+      }
+    ],
+    "sel_team": [
+      "eq6"
+    ]
+  },
+  {
+    "doi": "10.1093/humrep/deae258",
+    "title": "Human fallopian tube organoids provide a favourable environment for sperm motility",
+    "year": 2025,
+    "type": "article",
+    "journal": "Human Reproduction",
+    "authors": [
+      {
+        "name": "Nicolas Gatimel"
+      },
+      {
+        "name": "G. Perez"
+      },
+      {
+        "name": "E Bruno"
+      },
+      {
+        "name": "David Sagnat"
+      },
+      {
+        "name": "Corinne Rolland"
+      },
+      {
+        "name": "Yan Tanguy-Le-Gac"
+      },
+      {
+        "name": "Elisa Donato"
+      },
+      {
+        "name": "Claire Racaud"
+      },
+      {
+        "name": "Roger L\u00e9andri"
+      },
+      {
+        "name": "C\u00e9lia Bettiol"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Jean\u2010Paul Motta",
+        "id": "jean-paul.motta",
+        "team": "eq1"
+      },
+      {
+        "name": "\u00c9. Huyghe"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1038/s41575-025-01129-w",
+    "title": "Proteases in intestinal health and disease",
+    "year": 2025,
+    "type": "article",
+    "journal": "Nature Reviews Gastroenterology &amp; Hepatology",
+    "authors": [
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1080/19490976.2024.2387857",
+    "title": "Proteolytic bacteria expansion during colitis amplifies inflammation through cleavage of the external domain of PAR2",
+    "year": 2024,
+    "type": "article",
+    "journal": "Gut Microbes",
+    "authors": [
+      {
+        "name": "L Rondeau"
+      },
+      {
+        "name": "B Barbosa da Luz"
+      },
+      {
+        "name": "Alba Santiago"
+      },
+      {
+        "name": "Miriam Berm\u00fadez-Brito"
+      },
+      {
+        "name": "Amber Hann"
+      },
+      {
+        "name": "Giada De Palma"
+      },
+      {
+        "name": "Jennifer A. Jury"
+      },
+      {
+        "name": "X Wang"
+      },
+      {
+        "name": "Elena F. Verd\u00fa"
+      },
+      {
+        "name": "Heather J. Galipeau"
+      },
+      {
+        "name": "Corinne Rolland"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Wolfram Ruf"
+      },
+      {
+        "name": "P\u0159emysl Ber\u010d\u00edk"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Alberto Caminero"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1038/s41598-024-65485-4",
+    "title": "Intestinal organoids to model Salmonella infection and its impact on progenitors",
+    "year": 2024,
+    "type": "article",
+    "journal": "Scientific Reports",
+    "authors": [
+      {
+        "name": "Yan Jin"
+      },
+      {
+        "name": "Claire Racaud\u2010Sultan",
+        "id": "claire.racaud",
+        "team": "eq1"
+      },
+      {
+        "name": "Tiffany P\u00e9zier"
+      },
+      {
+        "name": "Anissa Edir",
+        "id": "anissa.edir",
+        "team": "eq1"
+      },
+      {
+        "name": "Corinne Rolland"
+      },
+      {
+        "name": "Coralie Claverie"
+      },
+      {
+        "name": "Julien Burlaud\u2010Gaillard"
+      },
+      {
+        "name": "Michel Olivier"
+      },
+      {
+        "name": "Philippe Velge"
+      },
+      {
+        "name": "Sonia Lacroix\u2010Lamand\u00e9"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Agn\u00e8s Wiedemann",
+        "id": "agnes.wiedemann",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1016/j.micinf.2024.105309",
+    "title": "Gut microb-aging and its relevance to frailty aging",
+    "year": 2024,
+    "type": "article",
+    "journal": "Microbes and Infection",
+    "authors": [
+      {
+        "name": "Guillaume Le Cosquer"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Jean\u2010Paul Motta",
+        "id": "jean-paul.motta",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1002/path.6366",
+    "title": "Human colonic organoids for understanding early events of familial adenomatous polyposis pathogenesis",
+    "year": 2024,
+    "type": "article",
+    "journal": "The Journal of Pathology",
+    "authors": [
+      {
+        "name": "Nolwenn Laborde"
+      },
+      {
+        "name": "Alexandre Barusseaud"
+      },
+      {
+        "name": "Muriel Quaranta"
+      },
+      {
+        "name": "Corinne Rolland"
+      },
+      {
+        "name": "A. Arrouy"
+      },
+      {
+        "name": "Delphine Bonnet"
+      },
+      {
+        "name": "Sylvain Kirzin"
+      },
+      {
+        "name": "N\u00faria Sol\u00e0-Tapias"
+      },
+      {
+        "name": "Dimitri Hamel"
+      },
+      {
+        "name": "Karl Barange"
+      },
+      {
+        "name": "Jean\u2010Pierre Duffas"
+      },
+      {
+        "name": "Marie\u2010Pierre Gratacap"
+      },
+      {
+        "name": "Julie Guillermet\u2010Guibert"
+      },
+      {
+        "name": "Anne Breton"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Laurent Alric"
+      },
+      {
+        "name": "Audrey Ferrand"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9rick Barreau",
+        "id": "frederick.barreau",
+        "team": "eq6"
+      },
+      {
+        "name": "Claire Racaud\u2010Sultan",
+        "id": "claire.racaud",
+        "team": "eq1"
+      },
+      {
+        "name": "Emmanuel Mas",
+        "id": "emmanuel.mas",
+        "team": "eq6"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1186/s13567-024-01333-7",
+    "title": "Mapping the scientific output of organoids for animal and human modeling infectious diseases: a bibliometric assessment",
+    "year": 2024,
+    "type": "article",
+    "journal": "Veterinary Research",
+    "authors": [
+      {
+        "name": "Yan Jin"
+      },
+      {
+        "name": "Jean Monlong",
+        "id": "jean.monlong",
+        "team": "eq4"
+      },
+      {
+        "name": "C\u00e9line Cougoule"
+      },
+      {
+        "name": "Sonia Lacroix\u2010Lamand\u00e9"
+      },
+      {
+        "name": "Agn\u00e8s Wiedemann",
+        "id": "agnes.wiedemann",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1182/bloodadvances.2023012010",
+    "title": "A human anti-matriptase-2 antibody limits iron overload, \u03b1-globin aggregates, and splenomegaly in \u03b2-thalassemic mice",
+    "year": 2024,
+    "type": "article",
+    "journal": "Blood Advances",
+    "authors": [
+      {
+        "name": "Matthew Wake"
+      },
+      {
+        "name": "Ana\u00efs Palin",
+        "id": "anais.palin",
+        "team": ""
+      },
+      {
+        "name": "Audrey Belot",
+        "id": "audrey.belot",
+        "team": ""
+      },
+      {
+        "name": "Mathieu Berger",
+        "id": "mathieu.berger",
+        "team": ""
+      },
+      {
+        "name": "Megane Lorgouilloux"
+      },
+      {
+        "name": "Margot Bichon"
+      },
+      {
+        "name": "Jonathan Papworth"
+      },
+      {
+        "name": "Luke Bayliss"
+      },
+      {
+        "name": "Benjamin Grimshaw"
+      },
+      {
+        "name": "Natalie K. Rynkiewicz"
+      },
+      {
+        "name": "Jemima Paterson"
+      },
+      {
+        "name": "Alicia Poindron"
+      },
+      {
+        "name": "Erin Spearing"
+      },
+      {
+        "name": "Emily Carter"
+      },
+      {
+        "name": "Robyne Hudson"
+      },
+      {
+        "name": "Millie Campbell"
+      },
+      {
+        "name": "Verena Petzer"
+      },
+      {
+        "name": "C\u00e9line Besson\u2010Fournier",
+        "id": "celine.besson",
+        "team": "platform-bip"
+      },
+      {
+        "name": "Chlo\u00e9 Latour",
+        "id": "chloe.latour",
+        "team": "eq4"
+      },
+      {
+        "name": "Am\u00e9lie Largounez"
+      },
+      {
+        "name": "Oph\u00e9lie Gourbeyre"
+      },
+      {
+        "name": "Alexis Fay"
+      },
+      {
+        "name": "H\u00e9l\u00e8ne Coppin",
+        "id": "helene.coppin",
+        "team": ""
+      },
+      {
+        "name": "Marie\u2010Paule Roth",
+        "id": "marie-paule.roth",
+        "team": ""
+      },
+      {
+        "name": "Igor Theurl"
+      },
+      {
+        "name": "Volker Germaschewski"
+      },
+      {
+        "name": "Delphine Meynard",
+        "id": "delphine.meynard",
+        "team": ""
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1111/bph.16341",
+    "title": "Chymotrypsin activity signals to intestinal epithelium by protease\u2010activated receptor\u2010dependent mechanisms",
+    "year": 2024,
+    "type": "article",
+    "journal": "British Journal of Pharmacology",
+    "authors": [
+      {
+        "name": "Simon Guignard"
+      },
+      {
+        "name": "Mahmoud Saifeddine"
+      },
+      {
+        "name": "Koichiro Mihara"
+      },
+      {
+        "name": "Majid Motahhary"
+      },
+      {
+        "name": "Magali Savignac"
+      },
+      {
+        "name": "Laura Guiraud",
+        "id": "laura.guiraud",
+        "team": "eq1"
+      },
+      {
+        "name": "David Sagnat"
+      },
+      {
+        "name": "Mireille Sebbag"
+      },
+      {
+        "name": "Sokchea Khou"
+      },
+      {
+        "name": "Corinne Rolland"
+      },
+      {
+        "name": "Anissa Edir",
+        "id": "anissa.edir",
+        "team": "eq1"
+      },
+      {
+        "name": "Barbara Bournet"
+      },
+      {
+        "name": "Louis Buscail"
+      },
+      {
+        "name": "\u00c9tienne Buscail"
+      },
+      {
+        "name": "Laurent Alric"
+      },
+      {
+        "name": "Caroline Camar\u00e9"
+      },
+      {
+        "name": "Mouna Ambli"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Morley D. Hollenberg"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Chrystelle Bonnart",
+        "id": "chrystelle.bonnard",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1002/hem3.115",
+    "title": "Fibrinogen\u2010like 1: A hepatokine linking liver physiology to hematology",
+    "year": 2024,
+    "type": "article",
+    "journal": "HemaSphere",
+    "authors": [
+      {
+        "name": "Jean Personnaz",
+        "id": "jean.personnaz",
+        "team": "eq5"
+      },
+      {
+        "name": "Herv\u00e9 Guillou"
+      },
+      {
+        "name": "L\u00e9on Kautz",
+        "id": "leon.kautz",
+        "team": "eq5"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1101/2024.10.12.618009",
+    "title": "Efficient indexing and querying of annotations in a pangenome graph",
+    "year": 2024,
+    "type": "preprint",
+    "journal": "bioRxiv",
+    "authors": [
+      {
+        "name": "Adam M. Novak"
+      },
+      {
+        "name": "Dickson Chung"
+      },
+      {
+        "name": "Glenn Hickey"
+      },
+      {
+        "name": "Sarah Djebali",
+        "id": "sarah.djebali",
+        "team": "eq4"
+      },
+      {
+        "name": "Toshiyuki Yokoyama"
+      },
+      {
+        "name": "Erik Garrison"
+      },
+      {
+        "name": "Giuseppe Narzisi"
+      },
+      {
+        "name": "Benedict Paten"
+      },
+      {
+        "name": "Jean Monlong",
+        "id": "jean.monlong",
+        "team": "eq4"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.21203/rs.3.rs-3834882/v1",
+    "title": "Intestinal organoids to model Salmonella infection and its impact on progenitors",
+    "year": 2024,
+    "type": "preprint",
+    "journal": "Research Square",
+    "authors": [
+      {
+        "name": "Yan Jin"
+      },
+      {
+        "name": "Claire Racaud\u2010Sultan",
+        "id": "claire.racaud",
+        "team": "eq1"
+      },
+      {
+        "name": "Tiffany P\u00e9zier"
+      },
+      {
+        "name": "Anissa Edir",
+        "id": "anissa.edir",
+        "team": "eq1"
+      },
+      {
+        "name": "Corinne Rolland"
+      },
+      {
+        "name": "Coralie Claverie"
+      },
+      {
+        "name": "Julien Burlaud\u2010Gaillard"
+      },
+      {
+        "name": "Michel Olivier"
+      },
+      {
+        "name": "Philippe Velge"
+      },
+      {
+        "name": "Sonia Lacroix\u2010Lamand\u00e9"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Agn\u00e8s Wiedemann",
+        "id": "agnes.wiedemann",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1186/s12989-024-00570-0",
+    "title": "Correction: Perinatal foodborne titanium dioxide exposure-mediated dysbiosis predisposes mice to develop colitis through life",
+    "year": 2024,
+    "type": "erratum",
+    "journal": "Particle and Fibre Toxicology",
+    "authors": [
+      {
+        "name": "Caroline Carl\u00e9"
+      },
+      {
+        "name": "Delphine Boucher"
+      },
+      {
+        "name": "Luisa Morelli"
+      },
+      {
+        "name": "Camille Larue"
+      },
+      {
+        "name": "Ekaterina Ovtchinnikova"
+      },
+      {
+        "name": "Louise Battut"
+      },
+      {
+        "name": "Kawthar Boumessid"
+      },
+      {
+        "name": "Melvin Airaud"
+      },
+      {
+        "name": "Muriel Quaranta-Nicaise"
+      },
+      {
+        "name": "Jean\u2010Luc Ravanat"
+      },
+      {
+        "name": "Gilles Dietrich"
+      },
+      {
+        "name": "Sandrine M\u00e9nard",
+        "id": "sandrine.menard",
+        "team": "eq6"
+      },
+      {
+        "name": "G\u00e9rard Eberl"
+      },
+      {
+        "name": "Nicolas Barnich"
+      },
+      {
+        "name": "Emmanuel Mas",
+        "id": "emmanuel.mas",
+        "team": "eq6"
+      },
+      {
+        "name": "Marie Carri\u00e8re"
+      },
+      {
+        "name": "Ziad Al Nabhani"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9rick Barreau",
+        "id": "frederick.barreau",
+        "team": "eq6"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1101/2024.06.04.596782",
+    "title": "Pathogenicity of Commensal Gut Biofilm In Prefrail Aging",
+    "year": 2024,
+    "type": "preprint",
+    "journal": "bioRxiv",
+    "authors": [
+      {
+        "name": "Guillaume Le Cosquer"
+      },
+      {
+        "name": "Melissa Pannier"
+      },
+      {
+        "name": "Elodie Meunier"
+      },
+      {
+        "name": "Julie Thevenin"
+      },
+      {
+        "name": "Elise Pyhourquet"
+      },
+      {
+        "name": "Sophie Guyonnet"
+      },
+      {
+        "name": "Bruno Vellas"
+      },
+      {
+        "name": "Yohan Santin"
+      },
+      {
+        "name": "Bruno P. Guiard"
+      },
+      {
+        "name": "Angelo Parini"
+      },
+      {
+        "name": "Louis Buscail"
+      },
+      {
+        "name": "Barbara Bournet"
+      },
+      {
+        "name": "Damien Guillemet"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Jean\u2010Paul Motta",
+        "id": "jean-paul.motta",
+        "team": "eq1"
+      },
+      {
+        "name": "the IHU HealthAge INSPIRE/Open Science study group"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1051/medsci/2024123",
+    "title": "FGL1, une nouvelle cible pour le traitement de l\u2019an\u00e9mie ?",
+    "year": 2024,
+    "type": "article",
+    "journal": "m\u00e9decine/sciences",
+    "authors": [
+      {
+        "name": "Thanina Medjbeur",
+        "id": "thanina.medjbeur",
+        "team": "eq5"
+      },
+      {
+        "name": "Jean Personnaz",
+        "id": "jean.personnaz",
+        "team": "eq5"
+      },
+      {
+        "name": "L\u00e9on Kautz",
+        "id": "leon.kautz",
+        "team": "eq5"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.22541/au.173322563.37284703/v1",
+    "title": "Bispecific nanobody\u00ae as new pharmacological drug for the selective inhibition of Trypsin-3",
+    "year": 2024,
+    "type": "preprint",
+    "journal": "Authorea Inc.",
+    "authors": [
+      {
+        "name": "Melissa DAVID"
+      },
+      {
+        "name": "Ana\u00efs Faihy"
+      },
+      {
+        "name": "Corinne Rolland"
+      },
+      {
+        "name": "Anissa Edir",
+        "id": "anissa.edir",
+        "team": "eq1"
+      },
+      {
+        "name": "Astrid Canivet"
+      },
+      {
+        "name": "L\u00e6titia Ligat"
+      },
+      {
+        "name": "Mireille Sebbag"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Aur\u00e9lien Olichon"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1101/2024.12.09.627534",
+    "title": "Development of intimin-enriched outer membrane vesicles (OMVs) as a vaccine to control intestinal carriage of Enterohemorrhagic *Escherichia coli*",
+    "year": 2024,
+    "type": "preprint",
+    "journal": "bioRxiv",
+    "authors": [
+      {
+        "name": "Asja Garling"
+      },
+      {
+        "name": "C\u00e9cile Goursat"
+      },
+      {
+        "name": "Carine S\u00e9guy"
+      },
+      {
+        "name": "Patricia Mart\u00edn"
+      },
+      {
+        "name": "Audrey Goman"
+      },
+      {
+        "name": "Jean\u2010Philippe Nougayr\u00e8de",
+        "id": "jean-philippe.nougayrede",
+        "team": "eq2"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9ric Auvray",
+        "id": "frederic.auvray",
+        "team": "eq2"
+      },
+      {
+        "name": "Priscilla Branchu",
+        "id": "priscilla.branchu",
+        "team": "eq2"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1101/2024.12.23.628701",
+    "title": "Ablation of hepatocyte derived-FGL1 does not aggravate metabolic dysfunction-associated steatotic liver disease and hepatocellular carcinoma",
+    "year": 2024,
+    "type": "preprint",
+    "journal": "bioRxiv",
+    "authors": [
+      {
+        "name": "Jean Personnaz",
+        "id": "jean.personnaz",
+        "team": "eq5"
+      },
+      {
+        "name": "Lisa Cannizzo",
+        "id": "lisa.cannizzo",
+        "team": "eq5"
+      },
+      {
+        "name": "C\u00e9line Marie Pauline Martin"
+      },
+      {
+        "name": "Aurore Desquesnes",
+        "id": "aurore.desquesnes",
+        "team": "eq5"
+      },
+      {
+        "name": "Manon Sotin"
+      },
+      {
+        "name": "Joanna DaSilva"
+      },
+      {
+        "name": "Prunelle Perrier"
+      },
+      {
+        "name": "Herv\u00e9 Guillou"
+      },
+      {
+        "name": "L\u00e9on Kautz",
+        "id": "leon.kautz",
+        "team": "eq5"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1101/2024.12.19.629342",
+    "title": "Comparative analysis of dietary iron deprivation and supplementation in a murine model of colitis",
+    "year": 2024,
+    "type": "preprint",
+    "journal": "bioRxiv",
+    "authors": [
+      {
+        "name": "Thanina Medjbeur",
+        "id": "thanina.medjbeur",
+        "team": "eq5"
+      },
+      {
+        "name": "Ugo Sardo",
+        "id": "ugo.sardo",
+        "team": ""
+      },
+      {
+        "name": "Prunelle Perrier"
+      },
+      {
+        "name": "K\u00e9vin Cormier"
+      },
+      {
+        "name": "Marilyne Roy"
+      },
+      {
+        "name": "Anne Dumay"
+      },
+      {
+        "name": "L\u00e9on Kautz",
+        "id": "leon.kautz",
+        "team": "eq5"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1182/blood.2023022724",
+    "title": "The hepatokine FGL1 regulates hepcidin and iron metabolism during anemia in mice by antagonizing BMP signaling",
+    "year": 2024,
+    "type": "article",
+    "journal": "Blood",
+    "authors": [
+      {
+        "name": "Ugo Sardo",
+        "id": "ugo.sardo",
+        "team": ""
+      },
+      {
+        "name": "Prunelle Perrier"
+      },
+      {
+        "name": "K\u00e9vin Cormier"
+      },
+      {
+        "name": "Manon Sotin"
+      },
+      {
+        "name": "Jean Personnaz",
+        "id": "jean.personnaz",
+        "team": "eq5"
+      },
+      {
+        "name": "Thanina Medjbeur",
+        "id": "thanina.medjbeur",
+        "team": "eq5"
+      },
+      {
+        "name": "Aurore Desquesnes",
+        "id": "aurore.desquesnes",
+        "team": "eq5"
+      },
+      {
+        "name": "Lisa Cannizzo",
+        "id": "lisa.cannizzo",
+        "team": "eq5"
+      },
+      {
+        "name": "Marc Ru\u00edz-Mart\u00ednez"
+      },
+      {
+        "name": "Julie Thevenin",
+        "id": "julie.thevenin",
+        "team": "eq1"
+      },
+      {
+        "name": "Benjamin Billor\u00e9"
+      },
+      {
+        "name": "Grace Jung"
+      },
+      {
+        "name": "Elise Abboud"
+      },
+      {
+        "name": "Carole Peyssonnaux"
+      },
+      {
+        "name": "Elizabeta Nemeth"
+      },
+      {
+        "name": "Yelena Ginzburg"
+      },
+      {
+        "name": "Tomas Ganz"
+      },
+      {
+        "name": "L\u00e9on Kautz",
+        "id": "leon.kautz",
+        "team": "eq5"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1101/2024.12.20.629591",
+    "title": "Deleterious imprinting of perinatal exposure to nano-polystyrene on inflammatory bowel diseases",
+    "year": 2024,
+    "type": "preprint",
+    "journal": "bioRxiv",
+    "authors": [
+      {
+        "name": "Melvin Airaud"
+      },
+      {
+        "name": "Amandine Roldan"
+      },
+      {
+        "name": "Jeanne Le Cl\u00e9ac'h"
+      },
+      {
+        "name": "Lisa Isoard",
+        "id": "lisa.isoard",
+        "team": "eq6"
+      },
+      {
+        "name": "Emmanuel Mas",
+        "id": "emmanuel.mas",
+        "team": "eq6"
+      },
+      {
+        "name": "Marie Carri\u00e8re"
+      },
+      {
+        "name": "Sandrine M\u00e9nard",
+        "id": "sandrine.menard",
+        "team": "eq6"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9rick Barreau",
+        "id": "frederick.barreau",
+        "team": "eq6"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1055/s-0044-1779238",
+    "title": "Small intestinal villus vascularization is driven via an epithelial-to-endothelial PAR1 signaling axis",
+    "year": 2024,
+    "type": "conference-paper",
+    "journal": "H\u00e4mostaseologie",
+    "authors": [
+      {
+        "name": "Maximilian Mimmler"
+      },
+      {
+        "name": "Olga Dremova"
+      },
+      {
+        "name": "Amrit Mann"
+      },
+      {
+        "name": "Frano Malinarich"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Jean\u2010Paul Motta",
+        "id": "jean-paul.motta",
+        "team": "eq1"
+      },
+      {
+        "name": "I. Kalte"
+      },
+      {
+        "name": "K\u00f6n\u00fcl Mammadova"
+      },
+      {
+        "name": "Giulia Pontarollo"
+      },
+      {
+        "name": "Christoph Reinhardt"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1016/j.cell.2023.10.019",
+    "title": "S.\u00a0aureus drives itch and scratch-induced skin damage through a V8 protease-PAR1 axis",
+    "year": 2023,
+    "type": "article",
+    "journal": "Cell",
+    "authors": [
+      {
+        "name": "Liwen Deng"
+      },
+      {
+        "name": "Flavia G. Costa"
+      },
+      {
+        "name": "Kimbria J. Blake"
+      },
+      {
+        "name": "Samantha Choi"
+      },
+      {
+        "name": "Arundhasa Chandrabalan"
+      },
+      {
+        "name": "Muhammad Saad Yousuf"
+      },
+      {
+        "name": "Stephanie Shiers"
+      },
+      {
+        "name": "D Dubreuil"
+      },
+      {
+        "name": "Daniela Vega\u2010Mendoza"
+      },
+      {
+        "name": "Corinne Rolland"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Tiphaine Voisin"
+      },
+      {
+        "name": "Michelle D. Bagood"
+      },
+      {
+        "name": "Lucia Wesemann"
+      },
+      {
+        "name": "Abigail M Frey"
+      },
+      {
+        "name": "Joseph S. Palumbo"
+      },
+      {
+        "name": "Brian J. Wainger"
+      },
+      {
+        "name": "Richard L. Gallo"
+      },
+      {
+        "name": "Juan Manuel Leyva-Castillo"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Theodore J. Price"
+      },
+      {
+        "name": "Rithwik Ramachandran"
+      },
+      {
+        "name": "Alexander R. Horswill"
+      },
+      {
+        "name": "Isaac M. Chiu"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1038/s41586-023-05896-x",
+    "title": "A draft human pangenome reference",
+    "year": 2023,
+    "type": "article",
+    "journal": "Nature",
+    "authors": [
+      {
+        "name": "Wen\u2010Wei Liao"
+      },
+      {
+        "name": "Mobin Asri"
+      },
+      {
+        "name": "Jana Ebler"
+      },
+      {
+        "name": "Daniel Doerr"
+      },
+      {
+        "name": "Marina Haukness"
+      },
+      {
+        "name": "Glenn Hickey"
+      },
+      {
+        "name": "Shuangjia Lu"
+      },
+      {
+        "name": "Julian Lucas"
+      },
+      {
+        "name": "Jean Monlong",
+        "id": "jean.monlong",
+        "team": "eq4"
+      },
+      {
+        "name": "Haley Abel"
+      },
+      {
+        "name": "Silvia Buonaiuto"
+      },
+      {
+        "name": "Xian Chang"
+      },
+      {
+        "name": "Haoyu Cheng"
+      },
+      {
+        "name": "Justin Chu"
+      },
+      {
+        "name": "Vincenza Colonna"
+      },
+      {
+        "name": "Jordan M. Eizenga"
+      },
+      {
+        "name": "Xiaowen Feng"
+      },
+      {
+        "name": "Christian Fischer"
+      },
+      {
+        "name": "Robert S. Fulton"
+      },
+      {
+        "name": "Shilpa Garg"
+      },
+      {
+        "name": "Cristian Groza"
+      },
+      {
+        "name": "Andrea Guarracino"
+      },
+      {
+        "name": "William T. Harvey"
+      },
+      {
+        "name": "Simon Heumos"
+      },
+      {
+        "name": "Kerstin Howe"
+      },
+      {
+        "name": "Miten Jain"
+      },
+      {
+        "name": "Tsung-Yu Lu"
+      },
+      {
+        "name": "Charles Markello"
+      },
+      {
+        "name": "Fergal J. Martin"
+      },
+      {
+        "name": "Matthew W. Mitchell"
+      },
+      {
+        "name": "Katherine M. Munson"
+      },
+      {
+        "name": "Moses Njagi Mwaniki"
+      },
+      {
+        "name": "Adam M. Novak"
+      },
+      {
+        "name": "Hugh E. Olsen"
+      },
+      {
+        "name": "Trevor Pesout"
+      },
+      {
+        "name": "David Porubsk\u1ef3"
+      },
+      {
+        "name": "Pjotr Prins"
+      },
+      {
+        "name": "Jonas A. Sibbesen"
+      },
+      {
+        "name": "Jouni Sir\u00e9n"
+      },
+      {
+        "name": "Chad Tomlinson"
+      },
+      {
+        "name": "Flavia Villani"
+      },
+      {
+        "name": "Mitchell R. Vollger"
+      },
+      {
+        "name": "Lucinda Antonacci-Fulton"
+      },
+      {
+        "name": "Gunjan Baid"
+      },
+      {
+        "name": "Carl Baker"
+      },
+      {
+        "name": "Anastasiya Belyaeva"
+      },
+      {
+        "name": "Konstantinos Billis"
+      },
+      {
+        "name": "Andrew Carroll"
+      },
+      {
+        "name": "Pi-Chuan Chang"
+      },
+      {
+        "name": "Sarah Cody"
+      },
+      {
+        "name": "Daniel E. Cook"
+      },
+      {
+        "name": "Robert Cook\u2010Deegan"
+      },
+      {
+        "name": "Omar E. Cornejo"
+      },
+      {
+        "name": "Mark Diekhans"
+      },
+      {
+        "name": "Peter Ebert"
+      },
+      {
+        "name": "Susan Fairley"
+      },
+      {
+        "name": "Olivier F\u00e9drigo"
+      },
+      {
+        "name": "Adam L. Felsenfeld"
+      },
+      {
+        "name": "Giulio Formenti"
+      },
+      {
+        "name": "Adam Frankish"
+      },
+      {
+        "name": "Yan Gao"
+      },
+      {
+        "name": "Nanibaa\u2019 A. Garrison"
+      },
+      {
+        "name": "Carlos Garc\u00eda Gir\u00f3n"
+      },
+      {
+        "name": "Richard E. Green"
+      },
+      {
+        "name": "Leanne Haggerty"
+      },
+      {
+        "name": "Kendra Hoekzema"
+      },
+      {
+        "name": "Thibaut Hourlier"
+      },
+      {
+        "name": "Hanlee P. Ji"
+      },
+      {
+        "name": "Eimear E. Kenny"
+      },
+      {
+        "name": "Barbara A. Koenig"
+      },
+      {
+        "name": "Alexey Kolesnikov"
+      },
+      {
+        "name": "Jan O. Korbel"
+      },
+      {
+        "name": "Jennifer Kordosky"
+      },
+      {
+        "name": "Sergey Koren"
+      },
+      {
+        "name": "HoJoon Lee"
+      },
+      {
+        "name": "Alexandra P. Lewis"
+      },
+      {
+        "name": "Hugo Magalh\u00e3es"
+      },
+      {
+        "name": "Santiago Marco\u2010Sola"
+      },
+      {
+        "name": "Pierre Marijon"
+      },
+      {
+        "name": "Ann M. Mc Cartney"
+      },
+      {
+        "name": "Jennifer McDaniel"
+      },
+      {
+        "name": "Jacquelyn Mountcastle"
+      },
+      {
+        "name": "Maria Nattestad"
+      },
+      {
+        "name": "Sergey Nurk"
+      },
+      {
+        "name": "Nathan D. Olson"
+      },
+      {
+        "name": "Alice B. Popejoy"
+      },
+      {
+        "name": "Daniela Puiu"
+      },
+      {
+        "name": "Mikko Rautiainen"
+      },
+      {
+        "name": "Allison Regier"
+      },
+      {
+        "name": "Arang Rhie"
+      },
+      {
+        "name": "Samuel Sacco"
+      },
+      {
+        "name": "Ashley D. Sanders"
+      },
+      {
+        "name": "Val\u00e9rie Schneider"
+      },
+      {
+        "name": "Baergen I. Schultz"
+      },
+      {
+        "name": "Kishwar Shafin"
+      },
+      {
+        "name": "Michael W. Smith"
+      },
+      {
+        "name": "Heidi J. Sofia"
+      },
+      {
+        "name": "Ahmad Abou Tayoun"
+      },
+      {
+        "name": "Fran\u00e7oise Thibaud\u2010Nissen"
+      },
+      {
+        "name": "Francesca Floriana Tricomi"
+      }
+    ],
+    "sel_team": [
+      "eq4"
+    ]
+  },
+  {
+    "doi": "10.1080/10408398.2023.2271101",
+    "title": "From ribosome to ribotoxins: understanding the toxicity of deoxynivalenol and Shiga toxin, two food borne toxins",
+    "year": 2023,
+    "type": "article",
+    "journal": "Critical Reviews in Food Science and Nutrition",
+    "authors": [
+      {
+        "name": "Marion Garofalo"
+      },
+      {
+        "name": "Delphine Payros"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9ric Ta\u00efeb",
+        "id": "frederic.taieb",
+        "team": "eq2"
+      },
+      {
+        "name": "Eric Oswald"
+      },
+      {
+        "name": "Jean\u2010Philippe Nougayr\u00e8de",
+        "id": "jean-philippe.nougayrede",
+        "team": "eq2"
+      },
+      {
+        "name": "Isabelle P. Oswald"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1016/j.mib.2022.102259",
+    "title": "Reframing antimicrobial resistance as a continuous spectrum of manifestations",
+    "year": 2023,
+    "type": "review",
+    "journal": "Current Opinion in Microbiology",
+    "authors": [
+      {
+        "name": "Sarah Schrader"
+      },
+      {
+        "name": "H\u00e9l\u00e8ne Botella"
+      },
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
+    "doi": "10.1080/15548627.2022.2054040",
+    "title": "Outer membrane vesicles produced by pathogenic strains of *Escherichia coli* block autophagic flux and exacerbate inflammasome activation",
+    "year": 2022,
+    "type": "article",
+    "journal": "Autophagy",
+    "authors": [
+      {
+        "name": "Laure David",
+        "id": "laure.david",
+        "team": "eq2"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9ric Ta\u00efeb",
+        "id": "frederic.taieb",
+        "team": "eq2"
+      },
+      {
+        "name": "Marie P\u00e9nary"
+      },
+      {
+        "name": "Pierre\u2010Jean Bordignon"
+      },
+      {
+        "name": "R\u00e9mi Plan\u00e8s"
+      },
+      {
+        "name": "Salimata Bagayoko"
+      },
+      {
+        "name": "Val\u00e9rie Duplan-Eche"
+      },
+      {
+        "name": "\u00c9tienne Meunier"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.3389/fmicb.2022.906238",
+    "title": "Cross-Talk Between the Intestinal Epithelium and Salmonella Typhimurium",
+    "year": 2022,
+    "type": "article",
+    "journal": "Frontiers in Microbiology",
+    "authors": [
+      {
+        "name": "Sandrine M\u00e9nard",
+        "id": "sandrine.menard",
+        "team": "eq6"
+      },
+      {
+        "name": "Sonia Lacroix\u2010Lamand\u00e9"
+      },
+      {
+        "name": "Katrin Ehrhardt"
+      },
+      {
+        "name": "Yan Jin"
+      },
+      {
+        "name": "Guntram A. Gra\u00dfl"
+      },
+      {
+        "name": "Agn\u00e8s Wiedemann",
+        "id": "agnes.wiedemann",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1136/gutjnl-2022-328084",
+    "title": "Identification of bacterial lipopeptides as key players in IBS",
+    "year": 2022,
+    "type": "article",
+    "journal": "Gut",
+    "authors": [
+      {
+        "name": "Camille Petitfils"
+      },
+      {
+        "name": "Sarah Maurel"
+      },
+      {
+        "name": "Ga\u00eblle Payros"
+      },
+      {
+        "name": "Amandine Hueber"
+      },
+      {
+        "name": "Bahija Agaiz"
+      },
+      {
+        "name": "G\u00e9raldine Gazzo"
+      },
+      {
+        "name": "R\u00e9mi Marrocco"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9ric Auvray",
+        "id": "frederic.auvray",
+        "team": "eq2"
+      },
+      {
+        "name": "Geoffrey Langevin"
+      },
+      {
+        "name": "Jean\u2010Paul Motta",
+        "id": "jean-paul.motta",
+        "team": "eq1"
+      },
+      {
+        "name": "Pauline Floch"
+      },
+      {
+        "name": "Marie Tremblay\u2010Franco"
+      },
+      {
+        "name": "Jean\u2010Marie Galano"
+      },
+      {
+        "name": "Alexandre Guy"
+      },
+      {
+        "name": "Thierry Durand"
+      },
+      {
+        "name": "Simon Lachambre"
+      },
+      {
+        "name": "Ana\u00eblle Durbec"
+      },
+      {
+        "name": "Hind Hussein"
+      },
+      {
+        "name": "Lisse Decraecker"
+      },
+      {
+        "name": "Justine Bertrand\u2010Michel"
+      },
+      {
+        "name": "Abdelhadi Saoudi"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      },
+      {
+        "name": "Pierrick Poisbeau"
+      },
+      {
+        "name": "Gilles Dietrich"
+      },
+      {
+        "name": "Chlo\u00e9 Melchior"
+      },
+      {
+        "name": "Guy E. Boeckxstaens"
+      },
+      {
+        "name": "Matteo S\u00e9rino"
+      },
+      {
+        "name": "Pauline Le Faouder"
+      },
+      {
+        "name": "Nicolas C\u00e9nac"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1016/j.tim.2022.05.010",
+    "title": "The pks island: a bacterial Swiss army knife? Colibactin: beyond DNA damage and cancer",
+    "year": 2022,
+    "type": "article",
+    "journal": "Trends in Microbiology",
+    "authors": [
+      {
+        "name": "Camille V. Chagneau"
+      },
+      {
+        "name": "Delphine Payros"
+      },
+      {
+        "name": "Min Tang-Fichaux"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9ric Auvray",
+        "id": "frederic.auvray",
+        "team": "eq2"
+      },
+      {
+        "name": "Jean\u2010Philippe Nougayr\u00e8de",
+        "id": "jean-philippe.nougayrede",
+        "team": "eq2"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1128/msphere.00624-21",
+    "title": "A Toxic Friend: Genotoxic and Mutagenic Activity of the Probiotic Strain Escherichia coli Nissle 1917",
+    "year": 2021,
+    "type": "article",
+    "journal": "mSphere",
+    "authors": [
+      {
+        "name": "Jean\u2010Philippe Nougayr\u00e8de",
+        "id": "jean-philippe.nougayrede",
+        "team": "eq2"
+      },
+      {
+        "name": "Camille V. Chagneau"
+      },
+      {
+        "name": "Jean\u2010Paul Motta",
+        "id": "jean-paul.motta",
+        "team": "eq1"
+      },
+      {
+        "name": "Nad\u00e8ge Bossuet\u2010Greif"
+      },
+      {
+        "name": "Marcy Belloy"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9ric Ta\u00efeb",
+        "id": "frederic.taieb",
+        "team": "eq2"
+      },
+      {
+        "name": "Jean\u2010Jacques Gratadoux"
+      },
+      {
+        "name": "Muriel Thomas"
+      },
+      {
+        "name": "Philippe Langella"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.3390/ijms22189967",
+    "title": "Adipose-Derived Stem Cells in the Treatment of Perianal Fistulas in Crohn\u2019s Disease: Rationale, Clinical Results and Perspectives",
+    "year": 2021,
+    "type": "article",
+    "journal": "International Journal of Molecular Sciences",
+    "authors": [
+      {
+        "name": "\u00c9tienne Buscail"
+      },
+      {
+        "name": "Guillaume Le Cosquer"
+      },
+      {
+        "name": "Fabian Gross"
+      },
+      {
+        "name": "Marine Lebrin"
+      },
+      {
+        "name": "Laetitia Bugarel"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Barbara Bournet"
+      },
+      {
+        "name": "Cyrielle Gilletta"
+      },
+      {
+        "name": "Louis Buscail"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1126/science.abg8871",
+    "title": "Pangenomics enables genotyping of known structural variants in 5202 diverse genomes",
+    "year": 2021,
+    "type": "article",
+    "journal": "Science",
+    "authors": [
+      {
+        "name": "Jouni Sir\u00e9n"
+      },
+      {
+        "name": "Jean Monlong",
+        "id": "jean.monlong",
+        "team": "eq4"
+      },
+      {
+        "name": "Xian Chang"
+      },
+      {
+        "name": "Adam M. Novak"
+      },
+      {
+        "name": "Jordan M. Eizenga"
+      },
+      {
+        "name": "Charles Markello"
+      },
+      {
+        "name": "Jonas A. Sibbesen"
+      },
+      {
+        "name": "Glenn Hickey"
+      },
+      {
+        "name": "Pi-Chuan Chang"
+      },
+      {
+        "name": "Andrew Carroll"
+      },
+      {
+        "name": "Namrata Gupta"
+      },
+      {
+        "name": "Stacey Gabriel"
+      },
+      {
+        "name": "Thomas W. Blackwell"
+      },
+      {
+        "name": "Aakrosh Ratan"
+      },
+      {
+        "name": "Kent D. Taylor"
+      },
+      {
+        "name": "Stephen S. Rich"
+      },
+      {
+        "name": "Jerome I. Rotter"
+      },
+      {
+        "name": "David Haussler"
+      },
+      {
+        "name": "Erik Garrison"
+      },
+      {
+        "name": "Benedict Paten"
+      }
+    ],
+    "sel_team": [
+      "eq4"
+    ]
+  },
+  {
+    "doi": "10.1126/sciadv.abh2037",
+    "title": "Multiform antimicrobial resistance from a metabolic mutation",
+    "year": 2021,
+    "type": "article",
+    "journal": "Science Advances",
+    "authors": [
+      {
+        "name": "Sarah Schrader"
+      },
+      {
+        "name": "H\u00e9l\u00e8ne Botella"
+      },
+      {
+        "name": "Robert S. Jansen"
+      },
+      {
+        "name": "Sabine Ehrt"
+      },
+      {
+        "name": "Kyu Y. Rhee"
+      },
+      {
+        "name": "Carl Nathan"
+      },
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
+    "doi": "10.1038/s41575-020-00397-y",
+    "title": "Gastrointestinal biofilms in health and disease",
+    "year": 2021,
+    "type": "article",
+    "journal": "Nature Reviews Gastroenterology &amp; Hepatology",
+    "authors": [
+      {
+        "name": "Jean\u2010Paul Motta",
+        "id": "jean-paul.motta",
+        "team": "eq1"
+      },
+      {
+        "name": "John L. Wallace"
+      },
+      {
+        "name": "Andr\u00e9 G. Buret"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1038/s41586-020-2493-4",
+    "title": "Expanded encyclopaedias of DNA elements in the human and mouse genomes",
+    "year": 2020,
+    "type": "article",
+    "journal": "Nature",
+    "authors": [
+      {
+        "name": "Federico Abascal"
+      },
+      {
+        "name": "Reyes Acosta"
+      },
+      {
+        "name": "Nicholas J. Addleman"
+      },
+      {
+        "name": "Jessika Adrian"
+      },
+      {
+        "name": "Veena Afzal"
+      },
+      {
+        "name": "Rizi Ai"
+      },
+      {
+        "name": "Bronwen Aken"
+      },
+      {
+        "name": "Jennifer A. Akiyama"
+      },
+      {
+        "name": "Omar Al Jammal"
+      },
+      {
+        "name": "Henry Amrhein"
+      },
+      {
+        "name": "Stacie M. Anderson"
+      },
+      {
+        "name": "Gregory R. Andrews"
+      },
+      {
+        "name": "Igor Antoshechkin"
+      },
+      {
+        "name": "Kristin Ardlie"
+      },
+      {
+        "name": "Joel Armstrong"
+      },
+      {
+        "name": "Matthew Astley"
+      },
+      {
+        "name": "Budhaditya Banerjee"
+      },
+      {
+        "name": "Amira Barkal"
+      },
+      {
+        "name": "If H. A. Barnes"
+      },
+      {
+        "name": "Iros Barozzi"
+      },
+      {
+        "name": "Daniel Barrell"
+      },
+      {
+        "name": "Gemma Barson"
+      },
+      {
+        "name": "Daniel J. Bates"
+      },
+      {
+        "name": "Ulugbek K. Baymuradov"
+      },
+      {
+        "name": "Cassandra Bazile"
+      },
+      {
+        "name": "M Beer"
+      },
+      {
+        "name": "Samantha Beik"
+      },
+      {
+        "name": "M. A. Bender"
+      },
+      {
+        "name": "Ruth Bennett"
+      },
+      {
+        "name": "Louis Philip Benoit Bouvrette"
+      },
+      {
+        "name": "B Bernstein"
+      },
+      {
+        "name": "Andrew Berry"
+      },
+      {
+        "name": "Anand Bhaskar"
+      },
+      {
+        "name": "Alexandra Bignell"
+      },
+      {
+        "name": "Steven M. Blue"
+      },
+      {
+        "name": "David M. Bodine"
+      },
+      {
+        "name": "Carles A. Boix"
+      },
+      {
+        "name": "Nathan Boley"
+      },
+      {
+        "name": "Tyler Borrman"
+      },
+      {
+        "name": "Beatrice Borsari"
+      },
+      {
+        "name": "Alan P. Boyle"
+      },
+      {
+        "name": "Laurel A. Brandsmeier"
+      },
+      {
+        "name": "Alessandra Breschi"
+      },
+      {
+        "name": "Emery H. Bresnick"
+      },
+      {
+        "name": "Jason A. Brooks"
+      },
+      {
+        "name": "Michael Buckley"
+      },
+      {
+        "name": "Christopher B. Burge"
+      },
+      {
+        "name": "Rachel Byron"
+      },
+      {
+        "name": "Eileen Cahill"
+      },
+      {
+        "name": "Lingling Cai"
+      },
+      {
+        "name": "Lulu Cao"
+      },
+      {
+        "name": "Mark Carty"
+      },
+      {
+        "name": "Rosa G. Castanon"
+      },
+      {
+        "name": "Andres Castillo"
+      },
+      {
+        "name": "Hassan Cha\u0131\u0308b"
+      },
+      {
+        "name": "Esther T. Chan"
+      },
+      {
+        "name": "Daniel R. Chee"
+      },
+      {
+        "name": "Sora Chee"
+      },
+      {
+        "name": "Hao Chen"
+      },
+      {
+        "name": "Huaming Chen"
+      },
+      {
+        "name": "Jiayu Chen"
+      },
+      {
+        "name": "Songjie Chen"
+      },
+      {
+        "name": "J. Michael Cherry"
+      },
+      {
+        "name": "Surya B. Chhetri"
+      },
+      {
+        "name": "Jyoti S. Choudhary"
+      },
+      {
+        "name": "Jacqueline Chrast"
+      },
+      {
+        "name": "Dongjun Chung"
+      },
+      {
+        "name": "Declan Clarke"
+      },
+      {
+        "name": "Neal Cody"
+      },
+      {
+        "name": "Candice J. Coppola"
+      },
+      {
+        "name": "Julie Coursen"
+      },
+      {
+        "name": "Anthony D\u2019Ippolito"
+      },
+      {
+        "name": "Stephen Dalton"
+      },
+      {
+        "name": "Cassidy Danyko"
+      },
+      {
+        "name": "Claire Davidson"
+      },
+      {
+        "name": "Jos\u00e9 D\u00e1vila-Velderrain"
+      },
+      {
+        "name": "Carrie Davis"
+      },
+      {
+        "name": "Job Dekker"
+      },
+      {
+        "name": "Alden Deran"
+      },
+      {
+        "name": "Gilberto DeSalvo"
+      },
+      {
+        "name": "Gloria Despacio-Reyes"
+      },
+      {
+        "name": "Colin N. Dewey"
+      },
+      {
+        "name": "Diane E. Dickel"
+      },
+      {
+        "name": "Morgan Diegel"
+      },
+      {
+        "name": "Mark Diekhans"
+      },
+      {
+        "name": "Vishnu Dileep"
+      },
+      {
+        "name": "Bo Ding"
+      },
+      {
+        "name": "Sarah Djebali",
+        "id": "sarah.djebali",
+        "team": "eq4"
+      },
+      {
+        "name": "Alexander Dobin"
+      },
+      {
+        "name": "Daniel Dom\u0131\u0301nguez"
+      },
+      {
+        "name": "Sarah Donaldson"
+      },
+      {
+        "name": "J\u00f6rg Drenkow"
+      },
+      {
+        "name": "Timothy R. Dreszer"
+      },
+      {
+        "name": "Yotam Drier"
+      },
+      {
+        "name": "Michael O. Duff"
+      },
+      {
+        "name": "Douglass Dunn"
+      },
+      {
+        "name": "Catharine Eastman"
+      },
+      {
+        "name": "Joseph R. Ecker"
+      },
+      {
+        "name": "Matthew D. Edwards"
+      },
+      {
+        "name": "Nicole El-Ali"
+      }
+    ],
+    "sel_team": [
+      "eq4"
+    ]
+  },
+  {
+    "doi": "10.1136/gutjnl-2020-321173",
+    "title": "Bacteria-derived long chain fatty acid exhibits anti-inflammatory properties in colitis",
+    "year": 2020,
+    "type": "article",
+    "journal": "Gut",
+    "authors": [
+      {
+        "name": "Julien Pujo"
+      },
+      {
+        "name": "Camille Petitfils"
+      },
+      {
+        "name": "Pauline Le Faouder"
+      },
+      {
+        "name": "Venessa Eeckhaut"
+      },
+      {
+        "name": "Ga\u00eblle Payros"
+      },
+      {
+        "name": "Sarah Maurel"
+      },
+      {
+        "name": "Teresa P\u00e9rez"
+      },
+      {
+        "name": "Matthias Van Hul"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9rick Barreau",
+        "id": "frederick.barreau",
+        "team": "eq6"
+      },
+      {
+        "name": "Catherine Blanpied"
+      },
+      {
+        "name": "St\u00e9phane Chavanas"
+      },
+      {
+        "name": "Filip Van Immerseel"
+      },
+      {
+        "name": "Justine Bertrand\u2010Michel"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      },
+      {
+        "name": "Claude Knauf"
+      },
+      {
+        "name": "Gilles Dietrich"
+      },
+      {
+        "name": "Patrice D. Cani"
+      },
+      {
+        "name": "Nicolas C\u00e9nac"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.3389/fcell.2020.00363",
+    "title": "Characterization of Human Colon Organoids From Inflammatory Bowel Disease Patients",
+    "year": 2020,
+    "type": "article",
+    "journal": "Frontiers in Cell and Developmental Biology",
+    "authors": [
+      {
+        "name": "Emilie d'Aldebert"
+      },
+      {
+        "name": "Muriel Quaranta"
+      },
+      {
+        "name": "Morgane S\u00e9bert"
+      },
+      {
+        "name": "Delphine Bonnet"
+      },
+      {
+        "name": "Sylvain Kirzin"
+      },
+      {
+        "name": "G. Portier"
+      },
+      {
+        "name": "Jean\u2010Pierre Duffas"
+      },
+      {
+        "name": "Sophie Chabot"
+      },
+      {
+        "name": "Philippe Lluel"
+      },
+      {
+        "name": "Sophie Allart"
+      },
+      {
+        "name": "Audrey Ferrand"
+      },
+      {
+        "name": "Laurent Alric"
+      },
+      {
+        "name": "Claire Racaud\u2010Sultan",
+        "id": "claire.racaud",
+        "team": "eq1"
+      },
+      {
+        "name": "Emmanuel Mas",
+        "id": "emmanuel.mas",
+        "team": "eq6"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1126/scitranslmed.aaz6992",
+    "title": "Biology of antimicrobial resistance and approaches to combat it",
+    "year": 2020,
+    "type": "article",
+    "journal": "Science Translational Medicine",
+    "authors": [
+      {
+        "name": "Sarah Schrader"
+      },
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      },
+      {
+        "name": "Carl Nathan"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
+    "doi": "10.1111/mmi.14615",
+    "title": "Nonredundant functions of Mycobacterium tuberculosis chaperones promote survival under stress",
+    "year": 2020,
+    "type": "article",
+    "journal": "Molecular Microbiology",
+    "authors": [
+      {
+        "name": "Alexa P. Harnagel"
+      },
+      {
+        "name": "Landys Lopez Quezada"
+      },
+      {
+        "name": "Sae Woong Park"
+      },
+      {
+        "name": "Catherine Baranowski"
+      },
+      {
+        "name": "Karen J. Kieser"
+      },
+      {
+        "name": "Xiuju Jiang"
+      },
+      {
+        "name": "Julia Roberts"
+      },
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      },
+      {
+        "name": "Amy Yang"
+      },
+      {
+        "name": "Brock Nelson"
+      },
+      {
+        "name": "Allison Fay"
+      },
+      {
+        "name": "Eric J. Rubin"
+      },
+      {
+        "name": "Sabine Ehrt"
+      },
+      {
+        "name": "Carl Nathan"
+      },
+      {
+        "name": "Tania J. Lupoli"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
+    "doi": "10.1016/bs.vh.2019.01.005",
+    "title": "Regulators of hepcidin expression",
+    "year": 2019,
+    "type": "book-chapter",
+    "journal": "Vitamins and Hormones",
+    "authors": [
+      {
+        "name": "Marie\u2010Paule Roth",
+        "id": "marie-paule.roth",
+        "team": ""
+      },
+      {
+        "name": "Delphine Meynard",
+        "id": "delphine.meynard",
+        "team": ""
+      },
+      {
+        "name": "H\u00e9l\u00e8ne Coppin",
+        "id": "helene.coppin",
+        "team": ""
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1371/journal.ppat.1008029",
+    "title": "Deciphering the interplay between the genotoxic and probiotic activities of Escherichia coli Nissle 1917",
+    "year": 2019,
+    "type": "article",
+    "journal": "PLOS Pathogens",
+    "authors": [
+      {
+        "name": "Cl\u00e9mence Massip"
+      },
+      {
+        "name": "Priscilla Branchu",
+        "id": "priscilla.branchu",
+        "team": "eq2"
+      },
+      {
+        "name": "Nad\u00e8ge Bossuet\u2010Greif"
+      },
+      {
+        "name": "Camille V. Chagneau"
+      },
+      {
+        "name": "D Gaillard"
+      },
+      {
+        "name": "Patricia Mart\u00edn"
+      },
+      {
+        "name": "Mich\u00e8le Boury"
+      },
+      {
+        "name": "Thomas S\u00e9cher"
+      },
+      {
+        "name": "Damien Dubois"
+      },
+      {
+        "name": "Jean\u2010Philippe Nougayr\u00e8de",
+        "id": "jean-philippe.nougayrede",
+        "team": "eq2"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1126/science.aau8959",
+    "title": "Opposing reactions in coenzyme A metabolism sensitize Mycobacterium tuberculosis to enzyme inhibition",
+    "year": 2019,
+    "type": "article",
+    "journal": "Science",
+    "authors": [
+      {
+        "name": "Elaine Ballinger"
+      },
+      {
+        "name": "John Mosior"
+      },
+      {
+        "name": "Travis Hartman"
+      },
+      {
+        "name": "Kristin Burns-Huang"
+      },
+      {
+        "name": "Ben Gold"
+      },
+      {
+        "name": "Roxanne Morris"
+      },
+      {
+        "name": "Laurent Goullieux"
+      },
+      {
+        "name": "Isabelle Blanc"
+      },
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      },
+      {
+        "name": "Sophie Lagrange"
+      },
+      {
+        "name": "Laurent Fraisse"
+      },
+      {
+        "name": "St\u00e9phanie Sans"
+      },
+      {
+        "name": "C\u00e9dric Couturier"
+      },
+      {
+        "name": "Eric Bacqu\u00e9"
+      },
+      {
+        "name": "Kyu Y. Rhee"
+      },
+      {
+        "name": "Sarah M. Scarry"
+      },
+      {
+        "name": "Jeffrey Aub\u00e9"
+      },
+      {
+        "name": "Guangbin Yang"
+      },
+      {
+        "name": "Ouathek Ouerfelli"
+      },
+      {
+        "name": "Dirk Schnappinger"
+      },
+      {
+        "name": "Thomas R. Ioerger"
+      },
+      {
+        "name": "Curtis A. Engelhart"
+      },
+      {
+        "name": "Jennifer A. McConnell"
+      },
+      {
+        "name": "Kathrine McAulay"
+      },
+      {
+        "name": "Allison Fay"
+      },
+      {
+        "name": "Christine Roubert"
+      },
+      {
+        "name": "James C. Sacchettini"
+      },
+      {
+        "name": "Carl Nathan"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
+    "doi": "10.1016/j.chom.2019.03.008",
+    "title": "Intestinal Bile Acids Induce a Morphotype Switch in Vancomycin-Resistant Enterococcus that Facilitates Intestinal Colonization",
+    "year": 2019,
+    "type": "article",
+    "journal": "Cell Host &amp; Microbe",
+    "authors": [
+      {
+        "name": "Peter T. McKenney"
+      },
+      {
+        "name": "Jinyuan Yan"
+      },
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      },
+      {
+        "name": "Simone Becattini"
+      },
+      {
+        "name": "Nina Lampen"
+      },
+      {
+        "name": "Andrew Motzer"
+      },
+      {
+        "name": "Peter J. Larson"
+      },
+      {
+        "name": "Daniel Dannaoui"
+      },
+      {
+        "name": "Sho Fujisawa"
+      },
+      {
+        "name": "Jo\u00e3o B. Xavier"
+      },
+      {
+        "name": "Eric G. Pamer"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
+    "doi": "10.1038/s41467-019-09037-9",
+    "title": "Duodenal bacterial proteolytic activity determines sensitivity to dietary antigen through protease-activated receptor-2",
+    "year": 2019,
+    "type": "article",
+    "journal": "Nature Communications",
+    "authors": [
+      {
+        "name": "Alberto Caminero"
+      },
+      {
+        "name": "Justin L. McCarville"
+      },
+      {
+        "name": "Heather J. Galipeau"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Steve P. Bernier"
+      },
+      {
+        "name": "Marco Constante"
+      },
+      {
+        "name": "Corinne Rolland"
+      },
+      {
+        "name": "Marlies Meisel"
+      },
+      {
+        "name": "Joseph A. Murray"
+      },
+      {
+        "name": "Xuechen Yu"
+      },
+      {
+        "name": "Armin Alaedini"
+      },
+      {
+        "name": "Brian K. Coombes"
+      },
+      {
+        "name": "P\u0159emysl Ber\u010d\u00edk"
+      },
+      {
+        "name": "Carolyn M. Southward"
+      },
+      {
+        "name": "Wolfram Ruf"
+      },
+      {
+        "name": "Bana Jabr\u00ec"
+      },
+      {
+        "name": "Fernando G. Chirdo"
+      },
+      {
+        "name": "Javier Casqueiro"
+      },
+      {
+        "name": "Michael G. Surette"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "Elena F. Verd\u00fa"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1111/jam.13929",
+    "title": "Shift in skin microbiota of Western European women across aging",
+    "year": 2018,
+    "type": "article",
+    "journal": "Journal of Applied Microbiology",
+    "authors": [
+      {
+        "name": "Romain Jug\u00e9"
+      },
+      {
+        "name": "Pauline Rouaud"
+      },
+      {
+        "name": "Josselin Breugnot"
+      },
+      {
+        "name": "K. Servaes"
+      },
+      {
+        "name": "Christine Grimaldi"
+      },
+      {
+        "name": "Marie\u2010Paule Roth",
+        "id": "marie-paule.roth",
+        "team": ""
+      },
+      {
+        "name": "H\u00e9l\u00e8ne Coppin",
+        "id": "helene.coppin",
+        "team": ""
+      },
+      {
+        "name": "B. Closs"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1128/mbio.02393-17",
+    "title": "The Colibactin Genotoxin Generates DNA Interstrand Cross-Links in Infected Cells",
+    "year": 2018,
+    "type": "article",
+    "journal": "mBio",
+    "authors": [
+      {
+        "name": "Nad\u00e8ge Bossuet\u2010Greif"
+      },
+      {
+        "name": "Julien Vignard"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9ric Ta\u00efeb",
+        "id": "frederic.taieb",
+        "team": "eq2"
+      },
+      {
+        "name": "Gladys Mirey"
+      },
+      {
+        "name": "Damien Dubois"
+      },
+      {
+        "name": "C. Petit"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      },
+      {
+        "name": "Jean\u2010Philippe Nougayr\u00e8de",
+        "id": "jean-philippe.nougayrede",
+        "team": "eq2"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1016/j.jcmgh.2018.10.009",
+    "title": "NOD2 Expression in Intestinal Epithelial Cells Protects Toward the Development of Inflammation and Associated Carcinogenesis",
+    "year": 2018,
+    "type": "article",
+    "journal": "Cellular and Molecular Gastroenterology and Hepatology",
+    "authors": [
+      {
+        "name": "Audrey Ferrand"
+      },
+      {
+        "name": "Ziad Al Nabhani"
+      },
+      {
+        "name": "N\u00faria Sol\u00e0 Tapias"
+      },
+      {
+        "name": "Emmanuel Mas",
+        "id": "emmanuel.mas",
+        "team": "eq6"
+      },
+      {
+        "name": "Jean\u2010Pierre Hugot"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9rick Barreau",
+        "id": "frederick.barreau",
+        "team": "eq6"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1182/blood-2017-07-795658",
+    "title": "Deletion of BMP6 worsens the phenotype of HJV-deficient mice and attenuates hepcidin levels reached after LPS challenge",
+    "year": 2017,
+    "type": "article",
+    "journal": "Blood",
+    "authors": [
+      {
+        "name": "Chlo\u00e9 Latour",
+        "id": "chloe.latour",
+        "team": "eq4"
+      },
+      {
+        "name": "C\u00e9line Besson\u2010Fournier",
+        "id": "celine.besson",
+        "team": "platform-bip"
+      },
+      {
+        "name": "Oph\u00e9lie Gourbeyre"
+      },
+      {
+        "name": "Delphine Meynard",
+        "id": "delphine.meynard",
+        "team": ""
+      },
+      {
+        "name": "Marie\u2010Paule Roth",
+        "id": "marie-paule.roth",
+        "team": ""
+      },
+      {
+        "name": "H\u00e9l\u00e8ne Coppin",
+        "id": "helene.coppin",
+        "team": ""
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1038/s41467-017-01403-9",
+    "title": "Identification of an analgesic lipopeptide produced by the probiotic Escherichia coli strain Nissle 1917",
+    "year": 2017,
+    "type": "article",
+    "journal": "Nature Communications",
+    "authors": [
+      {
+        "name": "Teresa P\u00e9rez"
+      },
+      {
+        "name": "Julien Pujo"
+      },
+      {
+        "name": "Patricia Mart\u00edn"
+      },
+      {
+        "name": "Pauline Le Faouder"
+      },
+      {
+        "name": "Jean\u2010Marie Galano"
+      },
+      {
+        "name": "Alexandre Guy"
+      },
+      {
+        "name": "Claude Knauf"
+      },
+      {
+        "name": "Jean Claude Tabet"
+      },
+      {
+        "name": "Sophie Tronnet"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9rick Barreau",
+        "id": "frederick.barreau",
+        "team": "eq6"
+      },
+      {
+        "name": "Maud Heuillet"
+      },
+      {
+        "name": "Gilles Dietrich"
+      },
+      {
+        "name": "Justine Bertrand\u2010Michel"
+      },
+      {
+        "name": "Thierry Durand"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      },
+      {
+        "name": "Nicolas C\u00e9nac"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.15252/embj.201695028",
+    "title": "Mycobacterium tuberculosis protease MarP activates a peptidoglycan hydrolase during acid stress",
+    "year": 2017,
+    "type": "article",
+    "journal": "The EMBO Journal",
+    "authors": [
+      {
+        "name": "H\u00e9l\u00e8ne Botella"
+      },
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      },
+      {
+        "name": "Myung Hee Lee"
+      },
+      {
+        "name": "Naomi Song"
+      },
+      {
+        "name": "Weizhen Xu"
+      },
+      {
+        "name": "Hideki Makinoshima"
+      },
+      {
+        "name": "Michael S. Glickman"
+      },
+      {
+        "name": "Sabine Ehrt"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
+    "doi": "10.1038/ncomms14731",
+    "title": "Depleting Mycobacterium tuberculosis of the transcription termination factor Rho causes pervasive transcription and rapid death",
+    "year": 2017,
+    "type": "article",
+    "journal": "Nature Communications",
+    "authors": [
+      {
+        "name": "Laure Botella"
+      },
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      },
+      {
+        "name": "Jonathan Livny"
+      },
+      {
+        "name": "Dirk Schnappinger"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
+    "doi": "10.1073/pnas.1617290114",
+    "title": "Protectin D1~n-3 DPA~ and resolvin D5~n-3 DPA~ are effectors of intestinal protection",
+    "year": 2017,
+    "type": "article",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "authors": [
+      {
+        "name": "Thomas Gobbetti"
+      },
+      {
+        "name": "Jesmond Dalli"
+      },
+      {
+        "name": "Romain A. Colas"
+      },
+      {
+        "name": "Donata Federici Canova"
+      },
+      {
+        "name": "Marius Aursnes"
+      },
+      {
+        "name": "Delphine Bonnet"
+      },
+      {
+        "name": "Laurent Alric"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Trond Vidar Hansen"
+      },
+      {
+        "name": "Charles N. Serhan"
+      },
+      {
+        "name": "Mauro Perretti"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1136/gutjnl-2016-312094",
+    "title": "Epithelial expression and function of trypsin-3 in irritable bowel syndrome",
+    "year": 2017,
+    "type": "article",
+    "journal": "Gut",
+    "authors": [
+      {
+        "name": "Claire Rolland-Fourcade"
+      },
+      {
+        "name": "Alexandre Denadai\u2010Souza"
+      },
+      {
+        "name": "Carla Cirillo"
+      },
+      {
+        "name": "Cintya D. Lopez Lopez"
+      },
+      {
+        "name": "Josue Obed Jaramillo"
+      },
+      {
+        "name": "Cl\u00e9o D\u00e9sormeaux"
+      },
+      {
+        "name": "Nicolas C\u00e9nac"
+      },
+      {
+        "name": "Jean\u2010Paul Motta",
+        "id": "jean-paul.motta",
+        "team": "eq1"
+      },
+      {
+        "name": "Muriel Larauche"
+      },
+      {
+        "name": "Yvette Tach\u00e9"
+      },
+      {
+        "name": "Pieter Vanden Berghe"
+      },
+      {
+        "name": "Michel Neunlist"
+      },
+      {
+        "name": "Emmanuel Coron"
+      },
+      {
+        "name": "Sylvain Kirzin"
+      },
+      {
+        "name": "G. Portier"
+      },
+      {
+        "name": "Delphine Bonnet"
+      },
+      {
+        "name": "Laurent Alric"
+      },
+      {
+        "name": "Stephen Vanner"
+      },
+      {
+        "name": "C\u00e9line Deraison",
+        "id": "celine.deraison",
+        "team": "eq1"
+      },
+      {
+        "name": "Nathalie Vergnolle",
+        "id": "nathalie.vergnolle",
+        "team": "eq1"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1182/blood-2015-11-681494",
+    "title": "Limiting hepatic Bmp-Smad signaling by matriptase-2 is required for erythropoietin-mediated hepcidin suppression in mice",
+    "year": 2016,
+    "type": "article",
+    "journal": "Blood",
+    "authors": [
+      {
+        "name": "Antonella Nai"
+      },
+      {
+        "name": "Aude Rubio"
+      },
+      {
+        "name": "Alessandro Campanella"
+      },
+      {
+        "name": "Oph\u00e9lie Gourbeyre"
+      },
+      {
+        "name": "Irene Artuso"
+      },
+      {
+        "name": "Jessica Bordini"
+      },
+      {
+        "name": "Aur\u00e9lie Gineste"
+      },
+      {
+        "name": "Chlo\u00e9 Latour",
+        "id": "chloe.latour",
+        "team": "eq4"
+      },
+      {
+        "name": "C\u00e9line Besson\u2010Fournier",
+        "id": "celine.besson",
+        "team": "platform-bip"
+      },
+      {
+        "name": "Herbert Y. Lin"
+      },
+      {
+        "name": "H\u00e9l\u00e8ne Coppin",
+        "id": "helene.coppin",
+        "team": ""
+      },
+      {
+        "name": "Marie-Paule Roth"
+      },
+      {
+        "name": "Clara Camaschella"
+      },
+      {
+        "name": "Laura Silvestri"
+      },
+      {
+        "name": "Delphine Meynard",
+        "id": "delphine.meynard",
+        "team": ""
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1182/blood-2016-10-748541",
+    "title": "Hepcidin upregulation by inflammation is independent of Smad1/5/8 signaling by activin B",
+    "year": 2016,
+    "type": "article",
+    "journal": "Blood",
+    "authors": [
+      {
+        "name": "C\u00e9line Besson\u2010Fournier",
+        "id": "celine.besson",
+        "team": "platform-bip"
+      },
+      {
+        "name": "Aur\u00e9lie Gineste"
+      },
+      {
+        "name": "Chlo\u00e9 Latour",
+        "id": "chloe.latour",
+        "team": "eq4"
+      },
+      {
+        "name": "Oph\u00e9lie Gourbeyre"
+      },
+      {
+        "name": "Delphine Meynard",
+        "id": "delphine.meynard",
+        "team": ""
+      },
+      {
+        "name": "Patricia Mart\u00edn"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      },
+      {
+        "name": "H\u00e9l\u00e8ne Coppin",
+        "id": "helene.coppin",
+        "team": ""
+      },
+      {
+        "name": "Marie\u2010Paule Roth",
+        "id": "marie-paule.roth",
+        "team": ""
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1128/ecosalplus.esp-0008-2016",
+    "title": "The Enterobacterial Genotoxins: Cytolethal Distending Toxin and Colibactin",
+    "year": 2016,
+    "type": "article",
+    "journal": "EcoSal Plus",
+    "authors": [
+      {
+        "name": "Fr\u00e9d\u00e9ric Ta\u00efeb",
+        "id": "frederic.taieb",
+        "team": "eq2"
+      },
+      {
+        "name": "C. Petit"
+      },
+      {
+        "name": "Jean\u2010Philippe Nougayr\u00e8de",
+        "id": "jean-philippe.nougayrede",
+        "team": "eq2"
+      },
+      {
+        "name": "\u00c9ric Oswald",
+        "id": "eric.oswald",
+        "team": "eq2"
+      }
+    ],
+    "sel_team": []
+  },
+  {
+    "doi": "10.1016/j.chom.2014.12.008",
+    "title": "Stressed Mycobacteria Use the Chaperone ClpB to Sequester Irreversibly Oxidized Proteins Asymmetrically Within and Between Cells",
+    "year": 2015,
+    "type": "article",
+    "journal": "Cell Host &amp; Microbe",
+    "authors": [
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      },
+      {
+        "name": "Gang Lin"
+      },
+      {
+        "name": "Neeraj Dhar"
+      },
+      {
+        "name": "Nicolas Chenouard"
+      },
+      {
+        "name": "Xiuju Jiang"
+      },
+      {
+        "name": "H\u00e9l\u00e8ne Botella"
+      },
+      {
+        "name": "Tania J. Lupoli"
+      },
+      {
+        "name": "Olivia Mariani"
+      },
+      {
+        "name": "Guangli Yang"
+      },
+      {
+        "name": "Ouathek Ouerfelli"
+      },
+      {
+        "name": "Micha\u00ebl Unser"
+      },
+      {
+        "name": "Dirk Schnappinger"
+      },
+      {
+        "name": "John D. McKinney"
+      },
+      {
+        "name": "Carl Nathan"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
+    "doi": "10.1371/journal.ppat.1004645",
+    "title": "Disruption of an M. tuberculosis Membrane Protein Causes a Magnesium-dependent Cell Division Defect and Failure to Persist in Mice",
+    "year": 2015,
+    "type": "article",
+    "journal": "PLOS Pathogens",
+    "authors": [
+      {
+        "name": "Nichole Goodsmith"
+      },
+      {
+        "name": "Xinzheng V. Guo"
+      },
+      {
+        "name": "Omar Vandal"
+      },
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      },
+      {
+        "name": "Ruojun Wang"
+      },
+      {
+        "name": "H\u00e9l\u00e8ne Botella"
+      },
+      {
+        "name": "Shuang Song"
+      },
+      {
+        "name": "Kamlesh Bhatt"
+      },
+      {
+        "name": "Amir Liba"
+      },
+      {
+        "name": "Padmini Salgame"
+      },
+      {
+        "name": "Dirk Schnappinger"
+      },
+      {
+        "name": "Sabine Ehrt"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
+    "doi": "10.1021/ja400021x",
+    "title": "N,C-Capped Dipeptides with Selectivity for Mycobacterial Proteasome over Human Proteasomes: Role of S3 and S1 Binding Pockets",
+    "year": 2013,
+    "type": "article",
+    "journal": "Journal of the American Chemical Society",
+    "authors": [
+      {
+        "name": "Gang Lin"
+      },
+      {
+        "name": "Tamutenda Chidawanyika"
+      },
+      {
+        "name": "Christopher Tsu"
+      },
+      {
+        "name": "Thulasi Warrier"
+      },
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      },
+      {
+        "name": "Christopher Blackburn"
+      },
+      {
+        "name": "Kenneth M. Gigstad"
+      },
+      {
+        "name": "Michael D. Sintchak"
+      },
+      {
+        "name": "Lawrence R. Dick"
+      },
+      {
+        "name": "Carl Nathan"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
+    "doi": "10.1099/mic.0.038133-0",
+    "title": "Functional characterization of the Mycobacterium tuberculosis serine/threonine kinase PknJ",
+    "year": 2010,
+    "type": "article",
+    "journal": "Microbiology",
+    "authors": [
+      {
+        "name": "Jichan Jang"
+      },
+      {
+        "name": "Alexandre Stella"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9ric Boudou"
+      },
+      {
+        "name": "Florence Levillain"
+      },
+      {
+        "name": "Eliette Darthuy"
+      },
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      },
+      {
+        "name": "Chongzhen Wang"
+      },
+      {
+        "name": "F. Bardou"
+      },
+      {
+        "name": "Germain Puzo"
+      },
+      {
+        "name": "Martine Gilleron"
+      },
+      {
+        "name": "Odile Burlet\u2010Schiltz"
+      },
+      {
+        "name": "Bernard Monsarrat"
+      },
+      {
+        "name": "Priscille Brodin"
+      },
+      {
+        "name": "Brigitte Gicquel"
+      },
+      {
+        "name": "Olivier Neyrolles"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
+    "doi": "10.1371/journal.ppat.1000204",
+    "title": "Foamy Macrophages from Tuberculous Patients' Granulomas Constitute a Nutrient-Rich Reservoir for M. tuberculosis Persistence",
+    "year": 2008,
+    "type": "article",
+    "journal": "PLoS Pathogens",
+    "authors": [
+      {
+        "name": "Pascale Peyron"
+      },
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      },
+      {
+        "name": "Yannick Poquet"
+      },
+      {
+        "name": "Florence Levillain"
+      },
+      {
+        "name": "Catherine Botanch"
+      },
+      {
+        "name": "F. Bardou"
+      },
+      {
+        "name": "Mamadou Daff\u00e9"
+      },
+      {
+        "name": "Jean\u2010Fran\u00e7ois Emile"
+      },
+      {
+        "name": "B. Marchou"
+      },
+      {
+        "name": "P\u00e8re-Joan Cardona"
+      },
+      {
+        "name": "Chantal de Chastellier"
+      },
+      {
+        "name": "Fr\u00e9d\u00e9ric Altare"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  }
+]

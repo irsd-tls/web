@@ -1,0 +1,108 @@
+<!-- <div class='row'> -->
+<!--   <div class='col-6'> -->
+<!--     <p> -->
+<!--       <input type="text" class="quicksearch" placeholder="{{ T "search_default" }}" /> -->
+<!--     </p> -->
+<!--   </div> -->
+<!--   <div class='col-3'> -->
+<!--     <p>Article type:  -->
+<!--       <select class="filters-select"> -->
+<!--         <option value="*">All</option> -->
+<!--         <option value="article">Article</option> -->
+<!--         <option value="review">Review</option> -->
+<!--       </select> -->
+<!--     </p> -->
+<!--   </div> -->
+<!-- </div> -->
+
+{{ $eqname := .Page.Params.team }}
+
+<div class="grid">
+  {{ range hugo.Data.pubs }}
+
+  <!-- test if anyone from this team -->
+  <!-- {{ $team_pub := false }} -->
+  <!-- {{ range .authors }} -->
+  
+  <!-- {{ if eq .team $eqname }} -->
+  <!-- {{ $team_pub = true }} -->
+  <!-- {{ end }} -->
+
+  <!-- {{ end }} -->
+
+  <!-- test if selected by the team -->
+  {{ $team_pub := false }}
+  {{ range .sel_team }}
+  
+  {{ if eq . $eqname }}
+  {{ $team_pub = true }}
+  {{ end }}
+
+  {{ end }}
+
+  {{ if $team_pub }}
+  <div class="element-item {{ .type }} " data-filter="{{ .type }}">
+    <p>
+      <i class="far fa-file-alt"></i> 
+      <em class="title">{{ .title }}.</em>
+      <!-- to keep track of authors we skip/hide -->
+      {{ $skipped_auths := 0 }}
+      {{ $auth_cpt := 1 }}
+
+      <!-- loop over all authors -->
+      {{ range .authors }}
+
+      <!-- show the first authors, always -->
+      {{ if lt $auth_cpt 3 }}
+      <!-- check if it's an IRSD author (should have a id info) -->
+      {{ if .id }}
+      {{ $person_url := add "people/" .id }}
+      <a href="{{ $person_url | relLangURL }}">{{ .name }}</a>,
+      {{ else }}
+      {{ .name }},
+      {{ end }}
+      {{ else }}
+
+      <!-- check if it's an IRSD author (should have a id info) -->
+      {{ if .id }}
+
+      <!-- before writing a new author, have we skipped some  -->
+      {{ if $skipped_auths }}
+      ..., 
+      {{ end }}
+      
+      <!-- write the IRSD author -->
+      {{ $person_url := add "people/" .id }}
+      <a href="{{ $person_url | relLangURL }}">{{ .name }}</a>,
+
+      <!-- reinit the flag for skipped authors -->
+      {{ $skipped_auths = 0 }}
+      
+      {{ else }}
+      <!-- we are skipping this author -->
+      {{ $skipped_auths = 1 }}
+      {{ end }}
+
+      {{ end }}
+
+      <!-- before going to the next author, increment the author counter -->
+      {{ $auth_cpt = add $auth_cpt 1 }}
+      {{ end }}
+
+      <!-- we're done, have we finished by skipping authors? -->
+      {{ if $skipped_auths }}
+      et al.,
+      {{ end }}
+
+      <strong class="journal">{{ .journal }}</strong>
+      <strong class="year">{{ .year }}</strong>.
+      DOI: <a href="https://doi.org/{{ .doi }}" target="blank" >{{ .doi }}</a>
+    </p>
+  </div>
+  {{ end }}
+  {{ end }}
+</div>
+
+<div id="pagination"></div>
+
+<script src="{{ (resources.Get "js/custom-pubs.js").RelPermalink }}"></script>

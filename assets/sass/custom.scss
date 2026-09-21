@@ -2,6 +2,27 @@
  * Put your custom CSS into your (not the theme's) assets/sass/custom.scss
  */
 
+#cta-small {
+    text-align: center;
+    padding: 0em 0em 0em 0;
+    font-size: 8pt;
+
+    header {
+        h2 {
+            display: inline-block;
+            vertical-align: middle;
+            font-weight: 500;
+            margin: 0;
+        }
+
+        .button {
+            vertical-align: middle;
+            margin-left: 1em;
+        }
+    }
+}
+
+
 // card-like sections in the services page
 .wrapper.style1.people {
     padding: .2em .2em .1em .2em;

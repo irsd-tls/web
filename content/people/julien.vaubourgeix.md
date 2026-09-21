@@ -5,11 +5,12 @@ team: eqjv
 image: images/people/julien.vaubourgeix.png
 email: julien.vaubourgeix@inserm.fr
 phone: 
-room: 
+room: B514
 position: Chercheur
 alumni: 
 selected_dois: 
 alumni_position: 
+subteam: 
 ---
 
 

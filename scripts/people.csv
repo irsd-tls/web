@@ -1,0 +1,55 @@
+id,first_name,last_name,email,team,position,position_en,phone,room,subteam,oa_id,selected_dois,alumni,alumni_position,alumni_position_en
+sarah.djebali,Sarah,Djebali,sarah.djebali@inserm.fr,eq4,Chercheur,Researcher,05 62 74 45 30,B522,,a5072898835,,,,
+jean.monlong,Jean,Monlong,jean.monlong@inserm.fr,eq4,Chercheur,Researcher,05 62 74 45 30,B522,,a5048124649,10.1038/s41586-023-05896-x;10.1126/science.abg8871;10.1186/s13059-020-1941-7,,,
+chloe.latour,Chloé,Latour,chloe.latour@inserm.fr,eq4,IE,Staff,,,,a5042002053,,,,
+arthur.frouin,Arthur,Frouin,arthur.frouin@inserm.fr,eq4,Postdoc,Postdoc,,,,a5072119971,,,,
+stephane.munos,Stéphane,Muños,stephane.munos@inserm.fr,eq4,IR,Staff,,,,a5015559641,,,,
+celine.besson,Céline,Besson-Fournier,celine.besson@inserm.fr,platform-bip,IR,Staff,,,,a5048550199,,eq4,IR,Staff
+matis.alias-bagarre,Matis,Alias Bagarre,matis.alias-bagarre@inserm.fr,,,,,,,,,eq4,IE,Staff
+marie-paule.roth,Marie-Paule,Roth,marie-paule.roth@inserm.fr,,,,,,,a5008663064,,eq4,DR,DR
+helene.coppin,Hélène,Coppin,helene.coppin@inserm.fr,,,,,,,a5088274861,,eq4,DR,DR
+delphine.meynard,Delphine,Meynard,delphine.meynard@inserm.fr,,,,,,,a5002713704,,eq4,Chercheur,Researcher
+francois.canonne-hergaux,François,Canonne-Hergaux,francois.canonne-hergaux@inserm.fr,,,,,,,a5042112338,,eq4,Chercheur,Researcher
+audrey.belot,Audrey,Belot,audrey.belot@inserm.fr,,,,,,,a5054027059,,eq4,Doctorante,PhD Student
+anais.palin,Anaïs,Palin,anais.palin@inserm.fr,,,,,,,a5003986303,,eq4,Doctorante,PhD Student
+mathieu.berger,Mathieu,Berger,mathieu.berger@inserm.fr,,,,,,,a5011502076,,eq4,Doctorante,PhD Student
+yasmine.boulkaid,Yasmine,Boulkaid,yasmine.boulkaid@inserm.fr,,,,,,,,,eq4,Stagiaire,Intern
+leon.kautz,Léon,Kautz,leon.kautz@inserm.fr,eq5,Chercheur,Researcher,,,,a5046694314,,,,
+jean.personnaz,Jean,Personnaz,jean.personnaz@inserm.fr,eq5,Chercheur,Researcher,,,,a5082292074,,,,
+lisa.cannizzo,Lisa,Cannizzo,lisa.cannizzo@inserm.fr,eq5,IE,Staff,,,,a5013852695,,,,
+aurore.desquesnes,Aurore,Desquesnes,aurore.desquesnes@inserm.fr,eq5,AI,Staff,,,,a5088131869,,,,
+ugo.sardo,Ugo,Sardo,ugo.sardo@inserm.fr,,,,,,,a5003312550,,eq5,Doctorant,PhD Student
+thanina.medjbeur,Thanina,Medjbeur,thanina.medjbeur@inserm.fr,eq5,Doctorante,PhD Student,,,,a5093728234,,,,
+sandrine.menard,Sandrine,Ménard,sandrine.menard@inserm.fr,eq6,Chercheur,Researcher,,,,a5084216644,,,,
+frederick.barreau,Frédérick,Barreau,frederick.barreau@inserm.fr,eq6,Chercheur,Researcher,,,,a5046621175,,,,
+emmanuel.mas,Emmanuel,Mas,emmanuel.mas@inserm.fr,eq6,PU-PH,PU-PH,,,,a5008516546,,,,
+arthur.mauduit,Arthur,Mauduit,arthur.mauduit@inserm.fr,eq6,Doctorant,PhD Student,,,,a5118957338,,,,
+lisa.isoard,Lisa,Isoard,lisa.isoard@inserm.fr,eq6,Doctorante,PhD Student,,,,a5115586989,,,,
+stephanie.cassant-sourdy,Stéphanie,Cassant-Sourdy,stephanie.cassant-sourdy@inserm.fr,eq6,Technicienne,Staff,,,,a5057254837,,,,
+eric.oswald,Eric,Oswald,eric.oswald@inserm.fr,eq2,Chercheur,Researcher,,,,a5066731405,,,,
+priscilla.branchu,Priscilla,Branchu,priscilla.branchu@inserm.fr,eq2,Chercheur,Researcher,,,compath,a5088089254,,,,
+jean-philippe.nougayrede,Jean-Philippe,Nougayrede,jean-philippe.nougayrede@inserm.fr,eq2,Chercheur,Researcher,,,toxcan,a5033533099,,,,
+sophie.duquesne,Sophie,Duquesne,sophie.duquesne@inserm.fr,eq2,Chercheur,Researcher,,,toxcan,a5068063411,,,,
+frederic.taieb,Frédéric,Taieb,frederic.taieb@inserm.fr,eq2,Chercheur,Researcher,,,compath,a5066035786,,,,
+laure.david,Laure,David,laure.david@inserm.fr,eq2,Chercheur,Researcher,,,compath,a5073106625,,,,
+frederic.auvray,Frédéric,Auvray,frederic.auvray@inserm.fr,eq2,Chercheur,Researcher,,,pathres,a5034508928,,,,
+julien.vaubourgeix,Julien,Vaubourgeix,julien.vaubourgeix@inserm.fr,eqjv,Chercheur,Researcher,,B514,,a5049276577,,,,
+nathalie.vergnolle,Nathalie,Vergnolle,nathalie.vergnolle@inserm.fr,eq1,Chercheur,Researcher,,,,a5028527760,,,,
+celine.deraison,Céline,Deraison,celine.deraison@inserm.fr,eq1,Chercheur,Researcher,,,,a5038560460,,,,
+claire.racaud,Claire,Racaud,claire.racaud@inserm.fr,eq1,Chercheur,Researcher,,,,a5045116525,,,,
+chrystelle.bonnard,Chrystelle,Bonnart,chrystelle.bonnard@inserm.fr,eq1,Chercheur,Researcher,,,,a5017330197,,,,
+jean-paul.motta,Jean-Paul,Motta,jean-paul.motta@inserm.fr,eq1,Chercheur,Researcher,,,,a5033001394,,,,
+agnes.wiedemann,Agnès,Wiedemann,agnes.wiedemann@inserm.fr,eq1,Chercheur,Researcher,,,,a5009456121,,,,
+corinne.rolland,Corinne,Roland,corinne.rolland@inserm.fr,eq1,IE,IE,,,,a5037947043,,,,
+anissa.edir,Anissa,Edir,anissa.edir@inserm.fr,eq1,IE,IE,,,,a5042844902,,,,
+laura.guiraud,Laura,Guiraud,laura.guiraud@inserm.fr,eq1,IE,IE,,,,a5068600431,,,,
+julie.thevenin,Julie,Thevenin,julie.thevenin@inserm.fr,eq1,IE,IE,,,,a5024115638,,,,
+romain.gauthier,Romain,Gauthier,romain.gauthier@inserm.fr,eq1,Doctorant,PhD Student,,,,a5117173565,,,,
+beatriz.hernandez-suarez,Beatriz,Hernandez-Suarez,beatriz.hernandez-suarez@inserm.fr,eq1,Posdoc,Posdoc,,,,a5034693200,,,,
+sofia.faggin,Sofia,Faggin,sofia.faggin@inserm.fr,eq1,Posdoc,Posdoc,,,,a5072013838,,,,
+david.sagnat,David,Sagnat,david.sagnat@inserm.fr,platform-organoid,Responsable technique,Technical Manager,,,,,,,,
+astrid.canivet,Astrid,Canivet,astrid.canivet@inserm.fr,platform-organoid,Ingénieure microscope,Staff,,,,,,,,
+perrine.rousset,Perrine,Rousset,perrine.rousset@inserm.fr,platform-digestive,Responsable Scientifique & Technique,Manager,,,,,,,,
+viguier.cl2,Clément,Viguier,viguier.cl2@chu-toulouse.fr,eqjv,Doctorant,PhD student,,,,,,,,
+lucile.billet,Lucile,Billet,lucile.billet@inserm.fr,eqjv,Doctorant,PhD student,,,,,,,,
+joanna.da-silva,Joanna,DaSilva,joanna.da-silva@inserm.fr,eq5,Doctorante,PhD Student,,,,,,,,

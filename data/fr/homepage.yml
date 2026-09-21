@@ -5,6 +5,10 @@ banner:
     contents: "En savoir plus"
     url: "about"
 items:
+  - type: cta-small
+    heading: ""
+    contents: >
+      Site internet en cours de mise à jour. Plus de contenu dans les prochaines semaines.
   - type: highlights
     items_per_row: 3
     items:

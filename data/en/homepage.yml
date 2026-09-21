@@ -6,6 +6,10 @@ banner:
     contents: "Learn More"
     url: "about"
 items:
+  - type: cta-small
+    heading: ""
+    contents: >
+      Website update in progress. More content coming over the next weeks.
   - type: highlights
     items_per_row: 3
     items:

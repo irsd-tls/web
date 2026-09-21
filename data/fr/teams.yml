@@ -6,18 +6,21 @@ items:
   - type: biglinks
     items_per_row: 3
     items:
-    - title: Éq. 1 - Gut Protease Signals
+    - title: Vergnolle/Deraison - Gut Protease Signals
       image: images/eq1/gut_barrier_organoid.svg
       url: eq1
-    - title: Éq. 2 - Pathogénie et commensalisme des entérobactéries
+    - title: Oswald - Pathogénie et commensalisme des entérobactéries
       image: images/eq2/ecoli.svg
       url: eq2
-    - title: Éq. 4 - Bioinformatics Research In Disease Genomics (BRIDGe)
+    - title: Djebali/Monlong - Bioinformatics Research In Disease Genomics (BRIDGe)
       image: images/eq4/dna_black.svg
       url: eq4
-    - title: Éq. 5 - Erythroferrone et Homéostasie Martiale
+    - title: Kautz - Erythroferrone et Homéostasie Martiale
       image: images/eq5/liver.svg
       url: eq5
-    - title: Éq. 6 - Environnement et épithélium intestinal
+    - title: Barreau - Environnement et épithélium intestinal
       image: images/eq6/gut_barrier.svg
       url: eq6
+    - title: Vaubourgeix - Systems Biology of Bacterial Antibiotic Resistance Mechanisms
+      image: images/eqjv/ecoli.drugs.svg
+      url: eqjv

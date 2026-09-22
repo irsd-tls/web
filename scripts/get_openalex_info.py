@@ -76,9 +76,7 @@ for mdfn in md_files:
                 for doi in value.split(';'):
                     if doi == '':
                         continue
-                    doi = 'https://doi.org/' + doi
-                    if doi not in cache:
-                        sel_dois.add(doi)
+                    sel_dois.add(doi.lower())
 
 print('{} DOIs selected found in pages.'.format(len(sel_dois)))
 
@@ -88,15 +86,24 @@ with open('team.dois.tsv') as inf:
     for line in inf:
         line = line.rstrip().split('\t')
         for doi in line[1].split(';'):
+            doi = doi.lower()
             sel_dois.add(doi)
             if doi not in team_sel_dois:
                 team_sel_dois[doi] = set()
             team_sel_dois[doi].add(line[0])
 
-if query_open_alex and len(sel_dois) > 0:
+print('{} DOIs selected total to add.'.format(len(sel_dois)))
+
+new_dois = set()
+for doi in sel_dois:
+    if 'https://doi.org/' + doi not in cache:
+        new_dois.add(doi)
+print('{} selected DOIs not in the cache.'.format(len(new_dois)))
+if len(new_dois) > 0:
     print('Querying OpenAlex...')
-    doi_works = pyalex.Works().filter_or(doi=list(sel_dois)).get()
+    doi_works = pyalex.Works().filter_or(doi=list(new_dois)).get()
     for ww in doi_works:
+        print(ww['doi'])
         cache[ww['doi']] = ww
     # update cache
     with open('cache.openalex.json', 'wt') as cache_outf:
@@ -111,7 +118,7 @@ for doi in cache:
     nb_irsd_auhtors = 0
     work = cache[doi]
     swork = {}
-    doi = doi.replace('https://doi.org/', '')
+    doi = doi.replace('https://doi.org/', '').lower()
     swork['doi'] = doi
     swork['title'] = work['title']
     # convert special formatting

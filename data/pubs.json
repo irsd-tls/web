@@ -419,6 +419,320 @@
     "sel_team": []
   },
   {
+    "doi": "10.64898/2026.07.21.739710",
+    "title": "HPRC2: A human pangenome reference with near-complete coverage of common genetic variation",
+    "year": 2026,
+    "type": "preprint",
+    "journal": "bioRxiv",
+    "authors": [
+      {
+        "name": "Julian Lucas"
+      },
+      {
+        "name": "Prajna Hebbar"
+      },
+      {
+        "name": "Wen\u2010Wei Liao"
+      },
+      {
+        "name": "Juan F Macias-Velasco"
+      },
+      {
+        "name": "Adam M. Novak"
+      },
+      {
+        "name": "Mobin Asri"
+      },
+      {
+        "name": "Jennifer R. Balacco"
+      },
+      {
+        "name": "Andrew P. Blair"
+      },
+      {
+        "name": "Jana Ebler"
+      },
+      {
+        "name": "Joshua Gardner"
+      },
+      {
+        "name": "Margarita Geleta"
+      },
+      {
+        "name": "Cristian Groza"
+      },
+      {
+        "name": "Andrea Guarracino"
+      },
+      {
+        "name": "Peter Heringer"
+      },
+      {
+        "name": "Glenn Hickey"
+      },
+      {
+        "name": "Shuangjia Lu"
+      },
+      {
+        "name": "Mar\u00eda C. Mar\u00edn"
+      },
+      {
+        "name": "Christopher Markovic"
+      },
+      {
+        "name": "Mira Mastoras"
+      },
+      {
+        "name": "Capucine Mayoud"
+      },
+      {
+        "name": "Brandy McNulty"
+      },
+      {
+        "name": "J Men\u00e9ndez"
+      },
+      {
+        "name": "Anna Minkina"
+      },
+      {
+        "name": "Saswat K. Mohanty"
+      },
+      {
+        "name": "Jean Monlong",
+        "id": "jean.monlong",
+        "team": "eq4"
+      },
+      {
+        "name": "Katherine M. Munson"
+      },
+      {
+        "name": "Keisuke K. Oshima"
+      },
+      {
+        "name": "David Porubsk\u1ef3"
+      },
+      {
+        "name": "T Rhyker Ranallo-Benavidez"
+      },
+      {
+        "name": "William Seligmann"
+      },
+      {
+        "name": "Ruhollah Shemirani"
+      },
+      {
+        "name": "Ivo Violich"
+      },
+      {
+        "name": "DongAhn Yoo"
+      },
+      {
+        "name": "Xiaoyu Zhuo"
+      },
+      {
+        "name": "Derek Albracht"
+      },
+      {
+        "name": "Ivan A. Alexandrov"
+      },
+      {
+        "name": "Jamie Allen"
+      },
+      {
+        "name": "Alawi A. Alsheikh-Ali"
+      },
+      {
+        "name": "Casey Andrews"
+      },
+      {
+        "name": "Dmitry Antipov"
+      },
+      {
+        "name": "Lucinda Antonacci-Fulton"
+      },
+      {
+        "name": "Alexander Arguello"
+      },
+      {
+        "name": "Marcelo Ayllon"
+      },
+      {
+        "name": "Edward A. Belter"
+      },
+      {
+        "name": "Halle D. Bender"
+      },
+      {
+        "name": "Davide Bolognini"
+      },
+      {
+        "name": "Katherine E. Bonini"
+      },
+      {
+        "name": "Silvia Buonaiuto"
+      },
+      {
+        "name": "Shuo Cao"
+      },
+      {
+        "name": "Ann M. Mc Cartney"
+      },
+      {
+        "name": "Pi-Chuan Chang"
+      },
+      {
+        "name": "Xian Chang"
+      },
+      {
+        "name": "Jitender Cheema"
+      },
+      {
+        "name": "Cla\u00fadio Ciofi"
+      },
+      {
+        "name": "Hiram Clawson"
+      },
+      {
+        "name": "Sarah Cody"
+      },
+      {
+        "name": "Vincenza Colonna"
+      },
+      {
+        "name": "Holland C. Conwell"
+      },
+      {
+        "name": "Mark Diekhans"
+      },
+      {
+        "name": "Maria Angela Diroma"
+      },
+      {
+        "name": "Zheng Dong"
+      },
+      {
+        "name": "Danilo Dubocanin"
+      },
+      {
+        "name": "Jordan M. Eizenga"
+      },
+      {
+        "name": "Parsa Eskandar"
+      },
+      {
+        "name": "Eddie A Ferro"
+      },
+      {
+        "name": "Sarah Ford"
+      },
+      {
+        "name": "W. L. Ford"
+      },
+      {
+        "name": "Adam Frankish"
+      },
+      {
+        "name": "Mallory A. Freeberg"
+      },
+      {
+        "name": "Qichen Fu"
+      },
+      {
+        "name": "Shenghan Gao"
+      },
+      {
+        "name": "Yan Gao"
+      },
+      {
+        "name": "Gage H. Garcia"
+      },
+      {
+        "name": "Obed Garcia"
+      },
+      {
+        "name": "John Garza"
+      },
+      {
+        "name": "Mohammadmersad Ghorbani"
+      },
+      {
+        "name": "Tina A. Graves-Lindsay"
+      },
+      {
+        "name": "Bida Gu"
+      },
+      {
+        "name": "Leanne Haggerty"
+      },
+      {
+        "name": "Nancy F Hansen"
+      },
+      {
+        "name": "Yue Hao"
+      },
+      {
+        "name": "Todd Hillaker"
+      },
+      {
+        "name": "S. Nakib Hossain"
+      },
+      {
+        "name": "Neng Huang"
+      },
+      {
+        "name": "Sarah E. Hunt"
+      },
+      {
+        "name": "T. Sterry Hunt"
+      },
+      {
+        "name": "Nafiseh Jafarzadeh"
+      },
+      {
+        "name": "Nivesh Jain"
+      },
+      {
+        "name": "Maryam Jehangir"
+      },
+      {
+        "name": "Juan Jiang"
+      },
+      {
+        "name": "Juhyun Kim"
+      },
+      {
+        "name": "Bonhwang Koo"
+      },
+      {
+        "name": "Milinn Kremitzki"
+      },
+      {
+        "name": "Daofeng Li"
+      },
+      {
+        "name": "Ronghan Li"
+      },
+      {
+        "name": "Jiadong Lin"
+      },
+      {
+        "name": "T -C Liu"
+      },
+      {
+        "name": "Ryan Lorig-Roach"
+      },
+      {
+        "name": "Hailey Loucks"
+      },
+      {
+        "name": "Jane Loveland"
+      }
+    ],
+    "sel_team": [
+      "eq4"
+    ]
+  },
+  {
     "doi": "10.1002/jpn3.70517",
     "title": "Exclusive enteral nutrition containing transforming growth factor\u2010\u03b2 improves intestinal barrier function in a colitis mouse model",
     "year": 2026,
@@ -1721,6 +2035,59 @@
     "sel_team": []
   },
   {
+    "doi": "10.1016/j.ygeno.2025.110995",
+    "title": "Differences in maternal diet fiber content influence patterns of gene expression and chromatin accessibility in fetuses and piglets",
+    "year": 2025,
+    "type": "article",
+    "journal": "Genomics",
+    "authors": [
+      {
+        "name": "Smahane Chalabi"
+      },
+      {
+        "name": "Linda M. P. Loonen"
+      },
+      {
+        "name": "Jos Boekhorst"
+      },
+      {
+        "name": "Houcheng Li"
+      },
+      {
+        "name": "Lingzhao Fang"
+      },
+      {
+        "name": "Peter W. Harrison"
+      },
+      {
+        "name": "Wassim Lakhal"
+      },
+      {
+        "name": "J\u00e9r\u00f4me Lluch"
+      },
+      {
+        "name": "Alexey Sokolov"
+      },
+      {
+        "name": "Sarah Djebali",
+        "id": "sarah.djebali",
+        "team": "eq4"
+      },
+      {
+        "name": "Andr\u00e9a Rau"
+      },
+      {
+        "name": "Elisabetta Giuffra"
+      },
+      {
+        "name": "Jerry M. Wells"
+      }
+    ],
+    "sel_team": [
+      "eq4"
+    ]
+  },
+  {
     "doi": "10.1016/j.xhgg.2025.100457",
     "title": "Polygenic risk score prediction accuracy convergence",
     "year": 2025,
@@ -1878,6 +2245,80 @@
       }
     ],
     "sel_team": []
+  },
+  {
+    "doi": "10.1101/2025.02.07.25321404",
+    "title": "Long-read sequencing resolves the clinically relevant *CYP21A2* locus, supporting a new clinical test for Congenital Adrenal Hyperplasia",
+    "year": 2025,
+    "type": "preprint",
+    "journal": "medRxiv",
+    "authors": [
+      {
+        "name": "Jean Monlong",
+        "id": "jean.monlong",
+        "team": "eq4"
+      },
+      {
+        "name": "Xiao Chen"
+      },
+      {
+        "name": "Hayk Barseghyan"
+      },
+      {
+        "name": "William J. Rowell"
+      },
+      {
+        "name": "Shloka Negi"
+      },
+      {
+        "name": "Natalie Nokoff"
+      },
+      {
+        "name": "Lauren Mohnach"
+      },
+      {
+        "name": "Josephine Hirsch"
+      },
+      {
+        "name": "Courtney Finlayson"
+      },
+      {
+        "name": "Catherine E. Keegan"
+      },
+      {
+        "name": "Miguel Almalvez"
+      },
+      {
+        "name": "Seth Berger"
+      },
+      {
+        "name": "Ivan De Dios"
+      },
+      {
+        "name": "Brandy McNulty"
+      },
+      {
+        "name": "Alex Robertson"
+      },
+      {
+        "name": "Karen H. Miga"
+      },
+      {
+        "name": "Phyllis Speiser"
+      },
+      {
+        "name": "Benedict Paten"
+      },
+      {
+        "name": "\u00c9ric Vilain"
+      },
+      {
+        "name": "Emmanu\u00e8le C. D\u00e9lot"
+      }
+    ],
+    "sel_team": [
+      "eq4"
+    ]
   },
   {
     "doi": "10.1101/2025.03.27.645671",
@@ -3586,7 +4027,7 @@
   },
   {
     "doi": "10.1016/j.cell.2023.10.019",
-    "title": "S.\u00a0aureus drives itch and scratch-induced skin damage through a V8 protease-PAR1 axis",
+    "title": "S. aureus drives itch and scratch-induced skin damage through a V8 protease-PAR1 axis",
     "year": 2023,
     "type": "article",
     "journal": "Cell",
@@ -3670,6 +4111,161 @@
     ],
     "sel_team": [
       "eq1"
+    ]
+  },
+  {
+    "doi": "10.1093/nargab/lqad089",
+    "title": "TAGADA: a scalable pipeline to improve genome annotations with RNA-seq data",
+    "year": 2023,
+    "type": "article",
+    "journal": "NAR Genomics and Bioinformatics",
+    "authors": [
+      {
+        "name": "Cyril Kurylo"
+      },
+      {
+        "name": "Cervin Guyomar"
+      },
+      {
+        "name": "Sylvain Foissac"
+      },
+      {
+        "name": "Sarah Djebali",
+        "id": "sarah.djebali",
+        "team": "eq4"
+      }
+    ],
+    "sel_team": [
+      "eq4"
+    ]
+  },
+  {
+    "doi": "10.3389/fbinf.2023.1092853",
+    "title": "Enhancer/gene relationships: Need for more reliable genome-wide reference sets",
+    "year": 2023,
+    "type": "article",
+    "journal": "Frontiers in Bioinformatics",
+    "authors": [
+      {
+        "name": "Tristan Hoellinger"
+      },
+      {
+        "name": "Camille Mestre"
+      },
+      {
+        "name": "Hugues Aschard"
+      },
+      {
+        "name": "Wilfried Le Goff"
+      },
+      {
+        "name": "Sylvain Foissac"
+      },
+      {
+        "name": "Thomas Faraut"
+      },
+      {
+        "name": "Sarah Djebali",
+        "id": "sarah.djebali",
+        "team": "eq4"
+      }
+    ],
+    "sel_team": [
+      "eq4"
+    ]
+  },
+  {
+    "doi": "10.1093/bioadv/vbad188",
+    "title": "PaintorPipe: a pipeline for genetic variant fine-mapping using functional annotations",
+    "year": 2023,
+    "type": "article",
+    "journal": "Bioinformatics Advances",
+    "authors": [
+      {
+        "name": "Zo\u00e9 Gerber"
+      },
+      {
+        "name": "Michel Fisun"
+      },
+      {
+        "name": "Hugues Aschard"
+      },
+      {
+        "name": "Sarah Djebali",
+        "id": "sarah.djebali",
+        "team": "eq4"
+      }
+    ],
+    "sel_team": [
+      "eq4"
+    ]
+  },
+  {
+    "doi": "10.1038/s41597-023-02249-1",
+    "title": "A Bos taurus sequencing methods benchmark for assembly, haplotyping, and variant calling",
+    "year": 2023,
+    "type": "data-paper",
+    "journal": "Scientific Data",
+    "authors": [
+      {
+        "name": "Camille Ech\u00e9"
+      },
+      {
+        "name": "Carole Iampietro"
+      },
+      {
+        "name": "Cl\u00e9ment Birbes"
+      },
+      {
+        "name": "Andreea Dr\u00e9au"
+      },
+      {
+        "name": "Claire Kuchly"
+      },
+      {
+        "name": "Arnaud Di Franco"
+      },
+      {
+        "name": "Christophe Klopp"
+      },
+      {
+        "name": "Thomas Faraut"
+      },
+      {
+        "name": "Sarah Djebali",
+        "id": "sarah.djebali",
+        "team": "eq4"
+      },
+      {
+        "name": "Adrien Castinel"
+      },
+      {
+        "name": "Matthias Zytnicki"
+      },
+      {
+        "name": "Erwan Denis"
+      },
+      {
+        "name": "Mekki Boussaha"
+      },
+      {
+        "name": "C\u00e9cile Grohs"
+      },
+      {
+        "name": "Didier Boichard"
+      },
+      {
+        "name": "Christine Gaspin"
+      },
+      {
+        "name": "Denis Milan"
+      },
+      {
+        "name": "C\u00e9cile Donnadieu"
+      }
+    ],
+    "sel_team": [
+      "eq4"
     ]
   },
   {
@@ -5250,7 +5846,7 @@
     "doi": "10.1038/s41575-020-00397-y",
     "title": "Gastrointestinal biofilms in health and disease",
     "year": 2021,
-    "type": "article",
+    "type": "review",
     "journal": "Nature Reviews Gastroenterology &amp; Hepatology",
     "authors": [
       {
@@ -5665,6 +6261,48 @@
     ]
   },
   {
+    "doi": "10.1186/s13059-020-1941-7",
+    "title": "Genotyping structural variants in pangenome graphs using the vg toolkit",
+    "year": 2020,
+    "type": "article",
+    "journal": "Genome Biology",
+    "authors": [
+      {
+        "name": "Glenn Hickey"
+      },
+      {
+        "name": "David N. Heller"
+      },
+      {
+        "name": "Jean Monlong",
+        "id": "jean.monlong",
+        "team": "eq4"
+      },
+      {
+        "name": "Jonas A. Sibbesen"
+      },
+      {
+        "name": "Jouni Sir\u00e9n"
+      },
+      {
+        "name": "Jordan M. Eizenga"
+      },
+      {
+        "name": "Eric T. Dawson"
+      },
+      {
+        "name": "Erik Garrison"
+      },
+      {
+        "name": "Adam M. Novak"
+      },
+      {
+        "name": "Benedict Paten"
+      }
+    ],
+    "sel_team": []
+  },
+  {
     "doi": "10.1182/blood.2019004653",
     "title": "A fully human anti-BMP6 antibody reduces the need for erythropoietin in rodent models of the anemia of chronic disease",
     "year": 2020,
@@ -5927,8 +6565,8 @@
       }
     ],
     "sel_team": [
-      "eq1",
-      "eq6"
+      "eq6",
+      "eq1"
     ]
   },
   {
@@ -6572,6 +7210,38 @@
       },
       {
         "name": "Eric G. Pamer"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
+    "doi": "10.7554/elife.49570",
+    "title": "Persistent Mycobacterium tuberculosis infection in mice requires PerM for successful cell division",
+    "year": 2019,
+    "type": "article",
+    "journal": "eLife",
+    "authors": [
+      {
+        "name": "Ruojun Wang"
+      },
+      {
+        "name": "Kaj M. Kreutzfeldt"
+      },
+      {
+        "name": "H\u00e9l\u00e8ne Botella"
+      },
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      },
+      {
+        "name": "Dirk Schnappinger"
+      },
+      {
+        "name": "Sabine Ehrt"
       }
     ],
     "sel_team": [
@@ -7418,6 +8088,52 @@
     ]
   },
   {
+    "doi": "10.1021/acsinfecdis.7b00231",
+    "title": "Targeting the Proteostasis Network for Mycobacterial Drug Discovery",
+    "year": 2018,
+    "type": "article",
+    "journal": "ACS Infectious Diseases",
+    "authors": [
+      {
+        "name": "Tania J. Lupoli"
+      },
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      },
+      {
+        "name": "Kristin Burns-Huang"
+      },
+      {
+        "name": "Ben Gold"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
+    "doi": "10.1016/j.tim.2018.11.006",
+    "title": "Building Walls: Work That Never Ends",
+    "year": 2018,
+    "type": "article",
+    "journal": "Trends in Microbiology",
+    "authors": [
+      {
+        "name": "H\u00e9l\u00e8ne Botella"
+      },
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
     "doi": "10.1038/nature21374",
     "title": "An atlas of human long non-coding RNAs with accurate 5\u2032 ends",
     "year": 2017,
@@ -7877,6 +8593,38 @@
     ]
   },
   {
+    "doi": "10.1128/mbio.01183-17",
+    "title": "Distinct Spatiotemporal Dynamics of Peptidoglycan Synthesis between Mycobacterium smegmatis and Mycobacterium tuberculosis",
+    "year": 2017,
+    "type": "article",
+    "journal": "mBio",
+    "authors": [
+      {
+        "name": "H\u00e9l\u00e8ne Botella"
+      },
+      {
+        "name": "Guangli Yang"
+      },
+      {
+        "name": "Ouathek Ouerfelli"
+      },
+      {
+        "name": "Sabine Ehrt"
+      },
+      {
+        "name": "Carl Nathan"
+      },
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
     "doi": "10.1038/ncomms14731",
     "title": "Depleting Mycobacterium tuberculosis of the transcription termination factor Rho causes pervasive transcription and rapid death",
     "year": 2017,
@@ -7904,7 +8652,7 @@
   },
   {
     "doi": "10.1073/pnas.1617290114",
-    "title": "Protectin D1~n-3 DPA~ and resolvin D5~n-3 DPA~ are effectors of intestinal protection",
+    "title": "Protectin D1 n-3 DPA and resolvin D5 n-3 DPA are effectors of intestinal protection",
     "year": 2017,
     "type": "article",
     "journal": "Proceedings of the National Academy of Sciences",
@@ -8369,7 +9117,7 @@
   },
   {
     "doi": "10.3201/eid2204.150531",
-    "title": "Microevolution of Monophasic *Salmonella* Typhimurium during Epidemic, United Kingdom, 2005\u20132010",
+    "title": "Microevolution of Monophasic Salmonella Typhimurium during Epidemic, United Kingdom, 2005\u20132010",
     "year": 2016,
     "type": "article",
     "journal": "Emerging Infectious Diseases",
@@ -8618,6 +9366,115 @@
     ]
   },
   {
+    "doi": "10.1074/jbc.m112.400994",
+    "title": "A Common Mechanism of Inhibition of the Mycobacterium tuberculosis Mycolic Acid Biosynthetic Pathway by Isoxyl and Thiacetazone",
+    "year": 2012,
+    "type": "article",
+    "journal": "Journal of Biological Chemistry",
+    "authors": [
+      {
+        "name": "Anna E. Grzegorzewicz"
+      },
+      {
+        "name": "Jana Kordul\u00e1kov\u00e1"
+      },
+      {
+        "name": "Victoria Jones"
+      },
+      {
+        "name": "Sarah E. M. Born"
+      },
+      {
+        "name": "Juan M. Belardinelli"
+      },
+      {
+        "name": "Adrien Vaqui\u00e9"
+      },
+      {
+        "name": "Vijay A. K. B. Gundi"
+      },
+      {
+        "name": "Jan Madacki"
+      },
+      {
+        "name": "Nawel Slama"
+      },
+      {
+        "name": "Fran\u00e7oise Laval"
+      },
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      },
+      {
+        "name": "Rebecca Crew"
+      },
+      {
+        "name": "Brigitte Gicquel"
+      },
+      {
+        "name": "Mamadou Daff\u00e9"
+      },
+      {
+        "name": "H\u00e9ctor R. Morbidoni"
+      },
+      {
+        "name": "Patrick J. Brennan"
+      },
+      {
+        "name": "Anna\u0131\u0308k Qu\u00e9mard"
+      },
+      {
+        "name": "Michael McNeil"
+      },
+      {
+        "name": "Mary Jackson"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
+    "doi": "10.1194/jlr.m013482",
+    "title": "Deciphering sulfoglycolipids of Mycobacterium tuberculosis",
+    "year": 2011,
+    "type": "article",
+    "journal": "Journal of Lipid Research",
+    "authors": [
+      {
+        "name": "Emilie Layre"
+      },
+      {
+        "name": "D. Cala-De Paepe"
+      },
+      {
+        "name": "Gerald Larrouy\u2010Maumus"
+      },
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      },
+      {
+        "name": "Sathish Mundayoor"
+      },
+      {
+        "name": "Buko Lindner"
+      },
+      {
+        "name": "Germain Puzo"
+      },
+      {
+        "name": "Martine Gilleron"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
     "doi": "10.1099/mic.0.038133-0",
     "title": "Functional characterization of the Mycobacterium tuberculosis serine/threonine kinase PknJ",
     "year": 2010,
@@ -8670,6 +9527,47 @@
       },
       {
         "name": "Olivier Neyrolles"
+      }
+    ],
+    "sel_team": [
+      "eqjv"
+    ]
+  },
+  {
+    "doi": "10.1074/jbc.m809599200",
+    "title": "S-Adenosyl-N-decyl-aminoethyl, a Potent Bisubstrate Inhibitor of Mycobacterium tuberculosis Mycolic Acid Methyltransferases",
+    "year": 2009,
+    "type": "article",
+    "journal": "Journal of Biological Chemistry",
+    "authors": [
+      {
+        "name": "Julien Vaubourgeix",
+        "id": "julien.vaubourgeix",
+        "team": "eqjv"
+      },
+      {
+        "name": "F. Bardou"
+      },
+      {
+        "name": "Fanny Boissier"
+      },
+      {
+        "name": "Sylviane Julien"
+      },
+      {
+        "name": "Patricia Constant"
+      },
+      {
+        "name": "Olivier Ploux"
+      },
+      {
+        "name": "Mamadou Daff\u00e9"
+      },
+      {
+        "name": "Anna\u0131\u0308k Qu\u00e9mard"
+      },
+      {
+        "name": "Lionel Mourey"
       }
     ],
     "sel_team": [
